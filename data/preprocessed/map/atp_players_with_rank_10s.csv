@@ -1,0 +1,56 @@
+country,n_players,players
+SUI,4,"['Roger Federer', 'Stanislas Wawrinka', 'Marco Chiudinelli', 'Henri Laaksonen']"
+ESP,24,"['Rafael Nadal', 'Fernando Verdasco', 'Tommy Robredo', 'David Ferrer', 'Juan Carlos Ferrero', 'Nicolas Almagro', 'Albert Montanes', 'Guillermo Garcia Lopez', 'Feliciano Lopez', 'Oscar Hernandez', 'Daniel Gimeno Traver', 'Marcel Granollers', 'Santiago Ventura', 'Pere Riba', 'Ruben Ramirez Hidalgo', 'Pablo Andujar', 'Albert Ramos', 'Roberto Bautista Agut', 'Pablo Carreno Busta', 'Daniel Munoz De La Nava', 'Inigo Cervantes Huegun', 'Roberto Carballes Baena', 'Jaume Munar', 'Alejandro Davidovich Fokina']"
+SRB,7,"['Novak Djokovic', 'Viktor Troicki', 'Janko Tipsarevic', 'Dusan Lajovic', 'Filip Krajinovic', 'Laslo Djere', 'Miomir Kecmanovic']"
+GBR,5,"['Andy Murray', 'James Ward', 'Kyle Edmund', 'Daniel Evans', 'Cameron Norrie']"
+ARG,22,"['Juan Martin Del Potro', 'Juan Monaco', 'Horacio Zeballos', 'Jose Acasuso', 'David Nalbandian', 'Maximo Gonzalez', 'Juan Ignacio Chela', 'Leonardo Mayer', 'Martin Vassallo Arguello', 'Eduardo Schwank', 'Brian Dabul', 'Carlos Berlocq', 'Diego Junqueira', 'Guido Pella', 'Martin Alund', 'Federico Delbonis', 'Diego Sebastian Schwartzman', 'Facundo Bagnis', 'Renzo Olivo', 'Nicolas Kicker', 'Guido Andreozzi', 'Juan Ignacio Londero']"
+RUS,13,"['Nikolay Davydenko', 'Mikhail Youzhny', 'Igor Andreev', 'Dmitry Tursunov', 'Igor Kunitsyn', 'Teymuraz Gabashvili', 'Alex Bogomolov Jr', 'Andrey Kuznetsov', 'Evgeny Donskoy', 'Karen Khachanov', 'Konstantin Kravchuk', 'Daniil Medvedev', 'Andrey Rublev']"
+USA,31,"['Andy Roddick', 'Sam Querrey', 'John Isner', 'James Blake', 'Mardy Fish', 'Taylor Dent', 'Rajeev Ram', 'Michael Russell', 'Robby Ginepri', 'Wayne Odesnik', 'Donald Young', 'Ryan Sweeting', 'Robert Kendrick', 'Ryan Harrison', 'Brian Baker', 'Steve Johnson', 'Jack Sock', 'Denis Kudla', 'Tim Smyczek', 'Bradley Klahn', 'Austin Krajicek', 'Taylor Harry Fritz', 'Bjorn Fratangelo', 'Jared Donaldson', 'Francis Tiafoe', 'Ernesto Escobedo', 'Tennys Sandgren', 'Mackenzie Mcdonald', 'Michael Mmoh', 'Reilly Opelka', 'Tommy Paul']"
+SWE,2,"['Robin Soderling', 'Mikael Ymer']"
+FRA,26,"['Jo Wilfried Tsonga', 'Gael Monfils', 'Gilles Simon', 'Jeremy Chardy', 'Paul Henri Mathieu', 'Julien Benneteau', 'Richard Gasquet', 'Marc Gicquel', 'Arnaud Clement', 'Florent Serra', 'Michael Llodra', 'Fabrice Santoro', 'Stephane Robert', 'Edouard Roger Vasselin', 'Adrian Mannarino', 'Nicolas Mahut', 'Benoit Paire', 'Eric Prodon', 'Guillaume Rufin', 'Kenny De Schepper', 'Lucas Pouille', 'Pierre Hugues Herbert', 'Ugo Humbert', 'Corentin Moutet', 'Antonie Hoang', 'Gregoire Barrere']"
+CHI,5,"['Fernando Gonzalez', 'Nicolas Massu', 'Paul Capdeville', 'Nicolas Jarry', 'Christian Garin']"
+CZE,6,"['Radek Stepanek', 'Tomas Berdych', 'Jan Hajek', 'Lukas Rosol', 'Jiri Vesely', 'Adam Pavlasek']"
+CRO,6,"['Marin Cilic', 'Ivan Ljubicic', 'Ivo Karlovic', 'Mario Ancic', 'Ivan Dodig', 'Borna Coric']"
+GER,25,"['Tommy Haas', 'Philipp Kohlschreiber', 'Andreas Beck', 'Benjamin Becker', 'Simon Greul', 'Florian Mayer', 'Michael Berrer', 'Mischa Zverev', 'Philipp Petzschner', 'Rainer Schuettler', 'Daniel Brands', 'Dustin Brown', 'Bjorn Phau', 'Tobias Kamke', 'Julian Reister', 'Matthias Bachinger', 'Denis Gremelmayr', 'Cedrik Marcel Stebe', 'Jan Lennard Struff', 'Peter Gojowczyk', 'Alexander Zverev', 'Maximilian Marterer', 'Yannick Hanfmann', 'Yannick Maden', 'Dominik Koepfer']"
+AUS,14,"['Lleyton Hewitt', 'Peter Luczak', 'Bernard Tomic', 'Matthew Ebden', 'Marinko Matosevic', 'Nick Kyrgios', 'Samuel Groth', 'James Duckworth', 'Thanasi Kokkinakis', 'John Millman', 'Jordan Thompson', 'Alex De Minaur', 'Jason Kubler', 'Alexei Popyrin']"
+AUT,5,"['Jurgen Melzer', 'Daniel Koellerer', 'Andreas Haider Maurer', 'Dominic Thiem', 'Gerald Melzer']"
+BRA,6,"['Thomaz Bellucci', 'Marcos Daniel', 'Ricardo Mello', 'Joao Souza', 'Rogerio Dutra Silva', 'Thiago Monteiro']"
+CYP,1,['Marcos Baghdatis']
+ISR,1,['Dudi Sela']
+ROU,3,"['Victor Hanescu', 'Adrian Ungur', 'Marius Copil']"
+ITA,16,"['Andreas Seppi', 'Fabio Fognini', 'Potito Starace', 'Paolo Lorenzi', 'Simone Bolelli', 'Filippo Volandri', 'Flavio Cipolla', 'Luca Vanni', 'Marco Cecchinato', 'Thomas Fabbiano', 'Alessandro Giannessi', 'Matteo Berrettini', 'Lorenzo Sonego', 'Stefano Travaglia', 'Salvatore Caruso', 'Jannik Sinner']"
+URU,1,['Pablo Cuevas']
+KAZ,5,"['Evgeny Korolev', 'Andrey Golubev', 'Mikhail Kukushkin', 'Aleksandr Nedovyesov', 'Alexander Bublik']"
+BEL,7,"['Olivier Rochus', 'Christophe Rochus', 'Xavier Malisse', 'Steve Darcis', 'David Goffin', 'Ruben Bemelmans', 'Kimmer Coppejans']"
+UKR,3,"['Sergiy Stakhovsky', 'Illya Marchenko', 'Alexandr Dolgopolov']"
+POR,5,"['Frederico Gil', 'Rui Machado', 'Joao Sousa', 'Gastao Elias', 'Pedro Sousa']"
+COL,3,"['Alejandro Falla', 'Santiago Giraldo', 'Alejandro Gonzalez']"
+SVK,6,"['Lukas Lacko', 'Karol Beck', 'Martin Klizan', 'Andrej Martin', 'Norbert Gombos', 'Jozef Kovalik']"
+FIN,1,['Jarkko Nieminen']
+LAT,1,['Ernests Gulbis']
+NED,5,"['Thiemo De Bakker', 'Robin Haase', 'Thomas Schoorel', 'Igor Sijsling', 'Jesse Huta Galung']"
+ECU,1,['Nicolas Lapentti']
+TPE,1,['Yen Hsun Lu']
+POL,5,"['Lukasz Kubot', 'Michal Przysiezny', 'Jerzy Janowicz', 'Hubert Hurkacz', 'Kamil Majchrzak']"
+UZB,2,"['Denis Istomin', 'Farrukh Dustov']"
+SLO,4,"['Blaz Kavcic', 'Aljaz Bedene', 'Grega Zemlja', 'Blaz Rola']"
+RSA,2,"['Kevin Anderson', 'Lloyd George Muirhead Harris']"
+IND,3,"['Somdev Devvarman', 'Yuki Bhambri', 'Prajnesh Gunneswaran']"
+TUR,1,['Marsel Ilhan']
+JPN,7,"['Kei Nishikori', 'Go Soeda', 'Tatsuma Ito', 'Taro Daniel', 'Yuichi Sugita', 'Yoshihito Nishioka', 'Yasutaka Uchiyama']"
+LTU,1,['Ricardas Berankis']
+BUL,1,['Grigor Dimitrov']
+CAN,7,"['Milos Raonic', 'Vasek Pospisil', 'Jesse Levine', 'Frank Dancevic', 'Denis Shapovalov', 'Felix Auger Aliassime', 'Brayden Schnur']"
+LUX,1,['Gilles Muller']
+TUN,1,['Malek Jaziri']
+EST,1,['Jurgen Zopp']
+DOM,1,['Victor Estrella']
+BIH,2,"['Damir Dzumhur', 'Mirza Basic']"
+KOR,2,"['Hyeon Chung', 'Soon Woo Kwon']"
+GEO,1,['Nikoloz Basilashvili']
+MDA,1,['Radu Albot']
+HUN,1,['Marton Fucsovics']
+GRE,1,['Stefanos Tsitsipas']
+BOL,1,['Hugo Dellien']
+BLR,2,"['Ilya Ivashka', 'Egor Gerasimov']"
+NOR,1,['Casper Ruud']

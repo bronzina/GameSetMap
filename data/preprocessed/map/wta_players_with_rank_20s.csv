@@ -1,0 +1,37 @@
+country,n_players,players
+AUS,3,"['Ashleigh Barty', 'Ajla Tomljanovic', 'Samantha Stosur']"
+CZE,9,"['Karolina Pliskova', 'Petra Kvitova', 'Marketa Vondrousova', 'Karolina Muchova', 'Barbora Zahlavova Strycova', 'Katerina Siniakova', 'Marie Bouzkova', 'Kristyna Pliskova', 'Barbora Krejcikova']"
+ROU,5,"['Simona Halep', 'Sorana Cirstea', 'Ana Bogdan', 'Patricia Maria Tig', 'Irina Camelia Begu']"
+JPN,3,"['Naomi Osaka', 'Misaki Doi', 'Nao Hibino']"
+UKR,4,"['Elina Svitolina', 'Dayana Yastremska', 'Kateryna Kozlova', 'Marta Kostyuk']"
+CAN,2,"['Bianca Andreescu', 'Leylah Annie Fernandez']"
+SUI,4,"['Belinda Bencic', 'Jil Belen Teichmann', 'Viktorija Golubic', 'Stefanie Voegele']"
+NED,2,"['Kiki Bertens', 'Arantxa Rus']"
+USA,19,"['Serena Williams', 'Madison Keys', 'Sofia Kenin', 'Alison Riske', 'Sloane Stephens', 'Amanda Anisimova', 'Danielle Rose Collins', 'Jennifer Brady', 'Venus Williams', 'Lauren Davis', 'Bernarda Pera', 'Cori Gauff', 'Taylor Townsend', 'Jessica Pegula', 'Christina Mchale', 'Kristie Ahn', 'Madison Brengle', 'Shelby Rogers', 'Ann Li']"
+BLR,3,"['Aryna Sabalenka', 'Victoria Azarenka', 'Aliaksandra Sasnovich']"
+GBR,2,"['Johanna Konta', 'Heather Watson']"
+CRO,2,"['Petra Martic', 'Donna Vekic']"
+BEL,3,"['Elise Mertens', 'Alison Van Uytvanck', 'Kirsten Flipkens']"
+GER,5,"['Angelique Kerber', 'Julia Goerges', 'Laura Siegemund', 'Andrea Petkovic', 'Tatjana Maria']"
+GRE,1,['Maria Sakkari']
+EST,2,"['Anett Kontaveit', 'Kaia Kanepi']"
+CHN,5,"['Qiang Wang', 'Shuai Zhang', 'Saisai Zheng', 'Yafan Wang', 'Lin Zhu']"
+RUS,10,"['Anastasia Pavlyuchenkova', 'Ekaterina Alexandrova', 'Veronika Kudermetova', 'Svetlana Kuznetsova', 'Anna Blinkova', 'Darya Kasatkina', 'Vitalia Diatchenko', 'Anastasia Potapova', 'Margarita Gasparyan', 'Varvara Gracheva']"
+LAT,2,"['Anastasija Sevastova', 'Jelena Ostapenko']"
+KAZ,3,"['Yulia Putintseva', 'Elena Rybakina', 'Zarina Diyas']"
+TPE,1,['Su Wei Hsieh']
+ESP,4,"['Garbine Muguruza', 'Carla Suarez Navarro', 'Sara Sorribes Tormo', 'Paula Badosa']"
+FRA,4,"['Kristina Mladenovic', 'Caroline Garcia', 'Alize Cornet', 'Fiona Ferro']"
+DEN,1,['Caroline Wozniacki']
+POL,2,"['Magda Linette', 'Iga Swiatek']"
+SWE,1,['Rebecca Peterson']
+SLO,3,"['Polona Hercog', 'Tamara Zidansek', 'Kaja Juvan']"
+SVK,1,['Viktoria Kuzmova']
+PUR,1,['Monica Puig']
+TUN,1,['Ons Jabeur']
+MNE,1,['Danka Kovinic']
+SRB,1,['Nina Stojanovic']
+HUN,1,['Timea Babos']
+ITA,3,"['Jasmine Paolini', 'Camila Giorgi', 'Martina Trevisan']"
+MDA,1,['Aliona Bolsova']
+ARG,1,['Nadia Podoroska']

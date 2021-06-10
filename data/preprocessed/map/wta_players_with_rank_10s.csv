@@ -1,0 +1,52 @@
+country,n_players,players
+USA,37,"['Serena Williams', 'Venus Williams', 'Melanie Oudin', 'Jill Craybas', 'Vania King', 'Varvara Lepchenko', 'Shenay Perry', 'Bethanie Mattek Sands', 'Coco Vandeweghe', 'Christina Mchale', 'Irina Falconi', 'Sloane Stephens', 'Jamie Hampton', 'Julia Cohen', 'Lauren Davis', 'Madison Keys', 'Mallory Burdette', 'Alison Riske', 'Victoria Duval', 'Shelby Rogers', 'Nicole Gibbs', 'Madison Brengle', 'Taylor Townsend', 'Grace Min', 'Louisa Chirico', 'Samantha Crawford', 'Catherine Cartan Bellis', 'Jennifer Brady', 'Julia Boserup', 'Sachia Vickery', 'Danielle Rose Collins', 'Sofia Kenin', 'Bernarda Pera', 'Amanda Anisimova', 'Jessica Pegula', 'Kristie Ahn', 'Cori Gauff']"
+RUS,33,"['Dinara Safina', 'Svetlana Kuznetsova', 'Elena Dementieva', 'Vera Zvonareva', 'Maria Sharapova', 'Nadia Petrova', 'Elena Vesnina', 'Alisa Kleybanova', 'Anastasia Pavlyuchenkova', 'Vera Dushevina', 'Ekaterina Makarova', 'Maria Kirilenko', 'Anna Chakvetadze', 'Alla Kudryavtseva', 'Evgeniya Rodina', 'Regina Kulikova', 'Anna Lapushchenkova', 'Anastasia Pivovarova', 'Nina Bratchikova', 'Alexandra Panova', 'Valeria Savinykh', 'Olga Puchkova', 'Vitalia Diatchenko', 'Margarita Gasparyan', 'Darya Kasatkina', 'Elizaveta Kulichkova', 'Irina Khromacheva', 'Natalia Vikhlyantseva', 'Ekaterina Alexandrova', 'Anna Blinkova', 'Anastasia Potapova', 'Veronika Kudermetova', 'Anna Kalinskaya']"
+DEN,1,['Caroline Wozniacki']
+BLR,6,"['Victoria Azarenka', 'Olga Govortsova', 'Anastasia Yakimova', 'Aliaksandra Sasnovich', 'Aryna Sabalenka', 'Vera Lapko']"
+SRB,8,"['Jelena Jankovic', 'Ana Ivanovic', 'Bojana Jovanovski', 'Vesna Dolonc', 'Aleksandra Krunic', 'Olga Danilovic', 'Ivana Jorovic', 'Nina Stojanovic']"
+POL,5,"['Agnieszka Radwanska', 'Urszula Radwanska', 'Katarzyna Piter', 'Magda Linette', 'Iga Swiatek']"
+FRA,13,"['Marion Bartoli', 'Virginie Razzano', 'Aravane Rezai', 'Alize Cornet', 'Julie Coin', 'Pauline Parmentier', 'Mathilde Johansson', 'Stephanie Foretz Gacon', 'Iryna Bremond', 'Kristina Mladenovic', 'Caroline Garcia', 'Oceane Dodin', 'Fiona Ferro']"
+ITA,10,"['Flavia Pennetta', 'Francesca Schiavone', 'Sara Errani', 'Tathiana Garbin', 'Roberta Vinci', 'Alberta Brianti', 'Maria Elena Camerin', 'Karin Knapp', 'Camila Giorgi', 'Jasmine Paolini']"
+AUS,10,"['Samantha Stosur', 'Jelena Dokic', 'Anastasia Rodionova', 'Alicia Molik', 'Jarmila Gajdosova', 'Casey Dellacqua', 'Ajla Tomljanovic', 'Daria Gavrilova', 'Ashleigh Barty', 'Astra Sharma']"
+CHN,9,"['Na Li', 'Jie Zheng', 'Shuai Peng', 'Shuai Zhang', 'Saisai Zheng', 'Qiang Wang', 'Ying Ying Duan', 'Yafan Wang', 'Lin Zhu']"
+BEL,7,"['Yanina Wickmayer', 'Kim Clijsters', 'Kirsten Flipkens', 'Justine Henin', 'Alison Van Uytvanck', 'An Sophie Mestach', 'Elise Mertens']"
+GER,13,"['Sabine Lisicki', 'Andrea Petkovic', 'Anna Lena Groenefeld', 'Tatjana Maria', 'Julia Goerges', 'Kristina Barrois', 'Angelique Kerber', 'Mona Barthel', 'Annika Beck', 'Dinah Pfizenmaier', 'Anna Lena Friedsam', 'Carina Witthoeft', 'Laura Siegemund']"
+SVK,7,"['Daniela Hantuchova', 'Dominika Cibulkova', 'Magdalena Rybarikova', 'Jana Cepelova', 'Anna Karolina Schmiedlova', 'Kristina Kucova', 'Viktoria Kuzmova']"
+ESP,14,"['Maria Jose Martinez Sanchez', 'Anabel Medina Garrigues', 'Carla Suarez Navarro', 'Arantxa Parra Santonja', 'Lourdes Dominguez Lino', 'Laura Pous Tio', 'Nuria Llagostera Vives', 'Silvia Soler Espinosa', 'Garbine Muguruza', 'Lara Arruabarrena', 'Maria Teresa Torro Flor', 'Estrella Cabeza Candela', 'Sara Sorribes Tormo', 'Paula Badosa']"
+ISR,2,"['Shahar Peer', 'Julia Glushko']"
+UKR,8,"['Kateryna Bondarenko', 'Alona Bondarenko', 'Viktoria Kutuzova', 'Lesia Tsurenko', 'Elina Svitolina', 'Nadiya Kichenok', 'Kateryna Kozlova', 'Dayana Yastremska']"
+CAN,6,"['Aleksandra Wozniak', 'Rebecca Marino', 'Stephanie Dubois', 'Eugenie Bouchard', 'Sharon Fichman', 'Bianca Andreescu']"
+ARG,2,"['Gisela Dulko', 'Paula Ormaechea']"
+HUN,4,"['Melinda Czink', 'Agnes Szavay', 'Greta Arn', 'Timea Babos']"
+CZE,20,"['Iveta Benesova', 'Lucie Safarova', 'Petra Kvitova', 'Lucie Hradecka', 'Barbora Zahlavova Strycova', 'Klara Koukalova', 'Sandra Zahlavova', 'Renata Voracova', 'Zuzana Ondraskova', 'Andrea Hlavackova', 'Petra Cetkovska', 'Eva Birnerova', 'Kristyna Pliskova', 'Karolina Pliskova', 'Tereza Smitkova', 'Katerina Siniakova', 'Denisa Allertova', 'Marketa Vondrousova', 'Karolina Muchova', 'Marie Bouzkova']"
+SUI,7,"['Patty Schnyder', 'Timea Bacsinszky', 'Stefanie Voegele', 'Romina Oprandi', 'Belinda Bencic', 'Viktorija Golubic', 'Jil Belen Teichmann']"
+ROU,12,"['Sorana Cirstea', 'Alexandra Dulgheru', 'Raluca Olaru', 'Edina Gallovits Hall', 'Simona Halep', 'Monica Niculescu', 'Irina Camelia Begu', 'Alexandra Cadantu', 'Cristina Andreea Mitu', 'Patricia Maria Tig', 'Mihaela Buzarnescu', 'Ana Bogdan']"
+KAZ,7,"['Yaroslava Shvedova', 'Ksenia Pervak', 'Galina Voskoboeva', 'Sesil Karatantcheva', 'Yulia Putintseva', 'Zarina Diyas', 'Elena Rybakina']"
+AUT,4,"['Sybille Bammer', 'Patricia Mayr Achleitner', 'Yvonne Meusburger', 'Tamira Paszek']"
+IND,1,['Sania Mirza']
+EST,2,"['Kaia Kanepi', 'Anett Kontaveit']"
+SLO,3,"['Polona Hercog', 'Tamara Zidansek', 'Dalila Jakupovic']"
+JPN,7,"['Kimiko Date Krumm', 'Ayumi Morita', 'Misaki Doi', 'Kurumi Nara', 'Nao Hibino', 'Naomi Osaka', 'Risa Ozaki']"
+LAT,2,"['Anastasija Sevastova', 'Jelena Ostapenko']"
+CRO,6,"['Petra Martic', 'Karolina Sprem', 'Mirjana Lucic', 'Donna Vekic', 'Ana Konjuh', 'Jana Fett']"
+GBR,8,"['Elena Baltacha', 'Katie Obrien', 'Anne Keothavong', 'Heather Watson', 'Laura Robson', 'Johanna Konta', 'Naomi Broady', 'Katie Boulter']"
+UZB,1,['Akgul Amanmuradova']
+TPE,3,"['Yung Jan Chan', 'Kai Chen Chang', 'Su Wei Hsieh']"
+BUL,1,['Tsvetana Pironkova']
+PAR,2,"['Rosana De Los Rios', 'Veronica Cepede Royg']"
+THA,2,"['Tamarine Tanasugarn', 'Luksika Kumkhum']"
+SWE,3,"['Sofia Arvidsson', 'Johanna Larsson', 'Rebecca Peterson']"
+COL,1,['Mariana Duque Marino']
+RSA,1,['Chanelle Scheepers']
+NED,4,"['Arantxa Rus', 'Michaella Krajicek', 'Kiki Bertens', 'Richel Hogenkamp']"
+GEO,1,['Anna Tatishvili']
+NZL,1,['Marina Erakovic']
+GRE,2,"['Eleni Daniilidou', 'Maria Sakkari']"
+LUX,1,['Mandy Minella']
+PUR,1,['Monica Puig']
+POR,1,['Michelle Larcher De Brito']
+BRA,2,"['Teliana Pereira', 'Beatriz Haddad Maia']"
+MNE,1,['Danka Kovinic']
+TUR,1,['Cagla Buyukakcay']
+TUN,1,['Ons Jabeur']
+MDA,1,['Aliona Bolsova']

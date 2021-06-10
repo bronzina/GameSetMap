@@ -1,0 +1,37 @@
+country,n_players,players
+USA,85,"['Martina Navratilova', 'Chris Evert', 'Andrea Jaeger', 'Tracy Austin', 'Pam Shriver', 'Zina Garrison', 'Kathy Jordan', 'Kathy Rinaldi Stunkel', 'Kathy Horvath', 'Bonnie Gadusek', 'Barbara Potter', 'Rosalyn Fairbank', 'Anne Smith', 'Michelle Torres', 'Alycia Moulton', 'Wendy Prausa', 'Anne White', 'Lisa Bonder Kreiss', 'Joanne Russell', 'Pam Casale', 'Kim Jones Shaefer', 'Beth Herr', 'Elise Burgin', 'Andrea Leand', 'Camille Benjamin', 'Sharon Walsh Pete', 'Mareen Louie Harper', 'Terry Phelps', 'Gretchen Magers', 'Rosie Casals', 'Leigh Anne Thompson', 'Sandy Collins', 'Mary Lou Daniels', 'Kim Sands', 'Ann Kiyomura Hayashi', 'Kate Gompert', 'Betsy Nagelsen', 'Heather Ludloff', 'Julie Harrington', 'Leslie Allen', 'Candy Reynolds', 'Terry Holladay', 'Susan Mascarin', 'Gigi Fernandez', 'Beverly Bowes', 'Billie Jean King', 'Vicki Nelson Dunbar', 'Lori Mcneil', 'Ann Henricksson', 'Melissa Brown', 'Lea Antonoplis', 'Kim Steinmetz', 'Debbie Spence Nasim', 'Shawn Foltz', 'Melissa Gurney', 'Robin White', 'Stephanie Rehe', 'Mary Joe Fernandez', 'Patty Fendick', 'Caroline Kuhlman', 'Molly Van Nostrand', 'Anna Ivan', 'Hu Na', 'Susan Sloane Lundy', 'Ginny Purdy', 'Jill Smoller', 'Cammy Macgregor', 'Marianne Werdel Witmeyer', 'Grace Kim', 'Tina Mochizuki', 'Barbara Gerken', 'Kathrin Keil', 'Elly Hakami', 'Halle Cioffi', 'Katrina Adams', 'Amy Frazier', 'Ann Grossman', 'Ronni Reis', 'Monica Seles', 'Stacey Martin', 'Donna Faber', 'Louise Allen', 'Shaun Stafford', 'Carrie Cunningham', 'Meredith Mcgrath']"
+GER,11,"['Sylvia Hanika', 'Bettina Bunge', 'Eva Pfaff', 'Claudia Kohde Kilsch', 'Steffi Graf', 'Isabel Cueto', 'Claudia Porwik', 'Silke Meier', 'Wiltrud Probst', 'Christina Singer', 'Sabine Hack']"
+AUS,14,"['Wendy Turnbull', 'Hana Mandlikova', 'Evonne Goolagong', 'Liz Smylie', 'Dianne Fromholtz', 'Anne Minter', 'Janine Tremelling', 'Danielle Jones', 'Jenny Byrne', 'Elizabeth Minter', 'Nicole Bradtke', 'Louise Field', 'Jo Anne Faull', 'Rachel Mcquillan']"
+GBR,7,"['Jo Durie', 'Virginia Wade', 'Anne Hobbs', 'Sue Barker', 'Annabel Croft', 'Sara Gomer', 'Monique Javer']"
+HUN,1,['Andrea Temesvari']
+CZE,4,"['Helena Sukova', 'Regina Marsikova', 'Jana Novotna', 'Jana Pospisilova']"
+ARG,8,"['Ivanna Madruga Osses', 'Gabriela Sabatini', 'Mercedes Paz', 'Mariana Perez Roldan', 'Bettina Fulco', 'Patricia Tarabini', 'Adriana Villagran Reami', 'Florencia Labat']"
+ROU,1,['Virginia Ruzici']
+CAN,5,"['Carling Bassett Seguso', 'Patricia Hy Boulais', 'Jill Hetherington', 'Helen Kelesi', 'Rene Collins']"
+SLO,1,['Mima Jausovec']
+TCH,3,"['Iva Budarova', 'Regina Rajchrtova', 'Petra Pichalova Langrova']"
+SUI,6,"['Christiane Jolissaint', 'Manuela Maleeva Fragniere', 'Lilian Drescher', 'Csilla Cserepy', 'Eva Krapl', 'Cathy Caverzasio']"
+FRA,11,"['Catherine Tanvier', 'Catherine Suire', 'Pascale Paradis Mangon', 'Sophie Amiach', 'Nathalie Herreman', 'Nathalie Tauziat', 'Isabelle Demongeot', 'Marie Christine Calleja', 'Julie Halard Decugis', 'Alexia Dechaume Balleret', 'Karine Quentrec']"
+RSA,9,"['Yvonne Vermaak', 'Beverly Mould', 'Jennifer Mundel', 'Rene Uys', 'Mary Innes', 'Elna Reinach', 'Dianne Van Rensburg', 'Karen Schimper', 'Amanda Coetzer']"
+ITA,9,"['Raffaella Reggi Concato', 'Sabina Simmonds', 'Sandra Cecchini', 'Laura Garrone', 'Federica Bonsignori', 'Laura Golarsa', 'Linda Ferrando', 'Laura Lapi', 'Barbara Romano']"
+NED,5,"['Marcella Mesker', 'Manon Bollegraf', 'Brenda Schultz Mccarthy', 'Hester Witvoet', 'Nicole Krijger Jagerman']"
+PER,2,"['Laura Arraya', 'Pilar Vasquez']"
+JPN,4,"['Etsuko Inoue', 'Masako Yanagi', 'Akiko Kijimuta', 'Kumiko Okamoto']"
+AUT,3,"['Petra Huber', 'Judith Wiesner', 'Barbara Paulus']"
+SWE,4,"['Catarina Lindqvist Ryan', 'Maria Lindstrom', 'Maria Strandlund Tomsvik', 'Cecilia Dahlman']"
+BRA,4,"['Patricia Medrado', 'Neige Dias', 'Gisele Miro', 'Andrea Vieira']"
+YUG,1,['Sabrina Goles']
+DEN,1,['Tine Scheuer Larsen']
+BUL,1,['Katerina Maleeva']
+URS,1,['Larisa Savchenko']
+NZL,1,['Belinda Cordwell']
+GRE,1,['Angelika Kanellopoulou']
+UNK,1,['Chris Lynne Kuhlke']
+BLR,1,['Natalia Zvereva']
+ESP,2,"['Arantxa Sanchez Vicario', 'Conchita Martinez']"
+RUS,2,"['Svetlana Cherneva', 'Natalia Egorova']"
+BEL,2,"['Ann Devries', 'Sandra Wasserman']"
+POL,1,['Iwona Kuczynska']
+GEO,1,['Leila Meskhi']
+SVK,1,['Radomira Zrubakova']
+UKR,1,['Natalia Medvedeva']

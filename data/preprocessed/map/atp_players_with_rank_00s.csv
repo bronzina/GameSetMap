@@ -1,0 +1,56 @@
+country,n_players,players
+USA,31,"['Andre Agassi', 'Pete Sampras', 'Todd Martin', 'Vincent Spadea', 'Jim Courier', 'Michael Chang', 'Chris Woodruff', 'Jan Michael Gambill', 'Jeff Tarango', 'Justin Gimelstob', 'Paul Goldstein', 'Martin Damm', 'Ronald Agenor', 'Andy Roddick', 'Michael Russell', 'Hugo Armando', 'James Blake', 'Taylor Dent', 'Jeff Morrison', 'Robby Ginepri', 'Mardy Fish', 'Brian Vahaly', 'Jeff Salzenstein', 'Kevin Kim', 'Bobby Reynolds', 'Robert Kendrick', 'Sam Querrey', 'Donald Young', 'John Isner', 'Wayne Odesnik', 'Rajeev Ram']"
+RUS,10,"['Yevgeny Kafelnikov', 'Marat Safin', 'Andrei Stoliarov', 'Mikhail Youzhny', 'Nikolay Davydenko', 'Dmitry Tursunov', 'Igor Andreev', 'Alex Bogomolov Jr', 'Igor Kunitsyn', 'Teymuraz Gabashvili']"
+GER,23,"['Nicolas Kiefer', 'Tommy Haas', 'Rainer Schuettler', 'David Prinosil', 'Jens Knippschild', 'Markus Hantschk', 'Tomas Behrend', 'Alexander Popp', 'Daniel Elsner', 'Lars Burgsmuller', 'Axel Pretzsch', 'Alexander Waske', 'Florian Mayer', 'Philipp Kohlschreiber', 'Bjorn Phau', 'Simon Greul', 'Denis Gremelmayr', 'Benjamin Becker', 'Michael Berrer', 'Mischa Zverev', 'Philipp Petzschner', 'Andreas Beck', 'Daniel Brands']"
+BRA,9,"['Gustavo Kuerten', 'Fernando Meligeni', 'Andre Sa', 'Alexandre Simoni', 'Flavio Saretta', 'Ricardo Mello', 'Marcos Daniel', 'Thiago Alves', 'Thomaz Bellucci']"
+SWE,10,"['Thomas Enqvist', 'Magnus Norman', 'Thomas Johansson', 'Magnus Gustafsson', 'Jonas Bjorkman', 'Mikael Tillstrom', 'Andreas Vinciguerra', 'Magnus Larsson', 'Robin Soderling', 'Joachim Johansson']"
+ECU,1,['Nicolas Lapentti']
+CHI,4,"['Marcelo Rios', 'Nicolas Massu', 'Fernando Gonzalez', 'Paul Capdeville']"
+NED,12,"['Richard Krajicek', 'Sjeng Schalken', 'John Van Lottum', 'Jan Siemerink', 'Peter Wessels', 'Raemon Sluiter', 'Edwin Kempes', 'Martin Verkerk', 'Dennis Van Scheppingen', 'Melle Van Gemerden', 'Robin Haase', 'Thiemo De Bakker']"
+GBR,4,"['Tim Henman', 'Greg Rusedski', 'Martin Lee', 'Andy Murray']"
+FRA,32,"['Cedric Pioline', 'Fabrice Santoro', 'Sebastien Grosjean', 'Jerome Golmard', 'Nicolas Escude', 'Arnaud Di Pasquale', 'Arnaud Clement', 'Antony Dupuis', 'Julien Boutter', 'Stephane Huet', 'Michael Llodra', 'Nicolas Coutelot', 'Paul Henri Mathieu', 'Olivier Mutis', 'Cyril Saulnier', 'Gregory Carraz', 'Richard Gasquet', 'Thierry Ascione', 'Nicolas Mahut', 'Julien Benneteau', 'Olivier Patience', 'Jerome Haehnel', 'Gael Monfils', 'Florent Serra', 'Gilles Simon', 'Marc Gicquel', 'Nicolas Devilder', 'Jo Wilfried Tsonga', 'Edouard Roger Vasselin', 'Jeremy Chardy', 'Adrian Mannarino', 'Josselin Ouanna']"
+AUS,10,"['Patrick Rafter', 'Mark Philippoussis', 'Lleyton Hewitt', 'Andrew Ilie', 'Richard Fromberg', 'Jason Stoltenberg', 'Wayne Arthurs', 'Scott Draper', 'Chris Guccione', 'Peter Luczak']"
+SVK,4,"['Karol Kucera', 'Dominik Hrbaty', 'Karol Beck', 'Lukas Lacko']"
+ESP,33,"['Albert Costa', 'Carlos Moya', 'Felix Mantilla', 'Alex Corretja', 'Francisco Clavet', 'Juan Carlos Ferrero', 'Alberto Martin', 'Fernando Vicente', 'Alberto Berasategui', 'Galo Blanco', 'Jacobo Diaz', 'Albert Portas', 'David Sanchez', 'Alex Calatrava', 'Emilio Benfele Alvarez', 'Juan Balcells', 'German Puentes', 'Sergi Bruguera', 'Tommy Robredo', 'Albert Montanes', 'Feliciano Lopez', 'David Ferrer', 'Rafael Nadal', 'Ruben Ramirez Hidalgo', 'Oscar Hernandez', 'Fernando Verdasco', 'Nicolas Almagro', 'Santiago Ventura', 'Guillermo Garcia Lopez', 'Ivan Navarro', 'Marcel Granollers', 'Daniel Gimeno Traver', 'Pablo Andujar']"
+MAR,3,"['Younes El Aynaoui', 'Karim Alami', 'Hicham Arazi']"
+ARG,26,"['Mariano Zabaleta', 'Franco Squillari', 'Hernan Gumy', 'Gaston Gaudio', 'Guillermo Canas', 'Juan Ignacio Chela', 'Mariano Puerta', 'Agustin Calleri', 'Guillermo Coria', 'Jose Acasuso', 'David Nalbandian', 'Martin Vassallo Arguello', 'Juan Monaco', 'Edgardo Massa', 'Carlos Berlocq', 'Sergio Roitman', 'Juan Martin Del Potro', 'Diego Hartfield', 'Juan Pablo Guzman', 'Juan Pablo Brzezicki', 'Eduardo Schwank', 'Maximo Gonzalez', 'Brian Dabul', 'Diego Junqueira', 'Leonardo Mayer', 'Horacio Zeballos']"
+UKR,2,"['Andrei Medvedev', 'Sergiy Stakhovsky']"
+CZE,15,"['Jiri Novak', 'Daniel Vacek', 'Slava Dosedel', 'Jiri Vanek', 'Tomas Zib', 'Bohdan Ulihrach', 'Michal Tabara', 'Jan Vacek', 'Radek Stepanek', 'Tomas Berdych', 'Jan Hernych', 'Ivo Minar', 'Robin Vik', 'Lukas Dlouhy', 'Jan Hajek']"
+AUT,8,"['Stefan Koubek', 'Markus Hipfl', 'Julian Knowle', 'Jurgen Melzer', 'Werner Eschauer', 'Oliver Marach', 'Alexander Peya', 'Daniel Koellerer']"
+ROU,5,"['Andrei Pavel', 'Adrian Voinea', 'Victor Hanescu', 'Razvan Sabau', 'Victor Crivoi']"
+SUI,6,"['Marc Rosset', 'Roger Federer', 'George Bastl', 'Michel Kratochvil', 'Stanislas Wawrinka', 'Marco Chiudinelli']"
+ARM,1,['Sargis Sargsian']
+RSA,4,"['Wayne Ferreira', 'Neville Godwin', 'Wesley Moodie', 'Kevin Anderson']"
+BLR,2,"['Max Mirnyi', 'Vladimir Voltchkov']"
+NOR,1,['Christian Ruud']
+CRO,7,"['Goran Ivanisevic', 'Ivan Ljubicic', 'Zeljko Krajan', 'Mario Ancic', 'Ivo Karlovic', 'Marin Cilic', 'Roko Karanusic']"
+ZIM,1,['Byron Black']
+CRC,1,['Juan Antonio Marin']
+ITA,15,"['Gianluca Pozzi', 'Laurence Tieleman', 'Andrea Gaudenzi', 'Davide Sanguinetti', 'Federico Luzzi', 'Filippo Volandri', 'Potito Starace', 'Alessio Di Mauro', 'Andreas Seppi', 'Daniele Bracciali', 'Stefano Galvani', 'Simone Bolelli', 'Fabio Fognini', 'Flavio Cipolla', 'Paolo Lorenzi']"
+DEN,2,"['Kenneth Carlsen', 'Kristian Pless']"
+CAN,4,"['Daniel Nestor', 'Sebastien Lareau', 'Frank Dancevic', 'Jesse Levine']"
+PHI,1,['Cecil Mamiit']
+BEL,7,"['Christophe Rochus', 'Olivier Rochus', 'Xavier Malisse', 'Dick Norman', 'Gilles Elseneer', 'Kristof Vliegen', 'Steve Darcis']"
+THA,2,"['Paradorn Srichaphan', 'Danai Udomchoke']"
+BUL,1,['Orlin Stanoytchev']
+ISR,3,"['Harel Levy', 'Noam Okun', 'Dudi Sela']"
+KOR,1,['Hyung Taik Lee']
+PAR,1,['Ramon Delgado']
+HUN,1,['Attila Savolt']
+FIN,1,['Jarkko Nieminen']
+GEO,1,['Irakli Labadze']
+PER,1,['Luis Horna']
+MON,1,['Jean Rene Lisnard']
+TPE,2,"['Yen Hsun Lu', 'Jimmy Wang']"
+LUX,1,['Gilles Muller']
+CYP,1,['Marcos Baghdatis']
+SRB,4,"['Janko Tipsarevic', 'Novak Djokovic', 'Boris Pashanski', 'Viktor Troicki']"
+KAZ,2,"['Evgeny Korolev', 'Andrey Golubev']"
+COL,1,['Alejandro Falla']
+BIH,1,['Amer Delic']
+LAT,1,['Ernests Gulbis']
+URU,1,['Pablo Cuevas']
+JPN,1,['Kei Nishikori']
+POR,1,['Frederico Gil']
+UZB,1,['Denis Istomin']
+POL,1,['Lukasz Kubot']

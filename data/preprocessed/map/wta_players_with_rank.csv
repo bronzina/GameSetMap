@@ -1,0 +1,35 @@
+country,n_players,players
+ROU,5,"['Simona Halep', 'Patricia Maria Tig', 'Sorana Cirstea', 'Irina Camelia Begu', 'Ana Bogdan']"
+JPN,3,"['Naomi Osaka', 'Nao Hibino', 'Misaki Doi']"
+USA,18,"['Sofia Kenin', 'Serena Williams', 'Madison Keys', 'Jennifer Brady', 'Alison Riske', 'Amanda Anisimova', 'Sloane Stephens', 'Danielle Rose Collins', 'Cori Gauff', 'Shelby Rogers', 'Bernarda Pera', 'Jessica Pegula', 'Lauren Davis', 'Venus Williams', 'Christina Mchale', 'Madison Brengle', 'Taylor Townsend', 'Ann Li']"
+UKR,3,"['Elina Svitolina', 'Dayana Yastremska', 'Marta Kostyuk']"
+CZE,10,"['Karolina Pliskova', 'Petra Kvitova', 'Marketa Vondrousova', 'Karolina Muchova', 'Barbora Zahlavova Strycova', 'Marie Bouzkova', 'Katerina Siniakova', 'Barbora Krejcikova', 'Kristyna Pliskova', 'Tereza Martincova']"
+CAN,2,"['Bianca Andreescu', 'Leylah Annie Fernandez']"
+NED,2,"['Kiki Bertens', 'Arantxa Rus']"
+BLR,3,"['Aryna Sabalenka', 'Victoria Azarenka', 'Aliaksandra Sasnovich']"
+SUI,3,"['Belinda Bencic', 'Jil Belen Teichmann', 'Viktorija Golubic']"
+GBR,2,"['Johanna Konta', 'Heather Watson']"
+ESP,4,"['Garbine Muguruza', 'Sara Sorribes Tormo', 'Paula Badosa', 'Carla Suarez Navarro']"
+POL,2,"['Iga Swiatek', 'Magda Linette']"
+CRO,2,"['Petra Martic', 'Donna Vekic']"
+KAZ,3,"['Elena Rybakina', 'Yulia Putintseva', 'Zarina Diyas']"
+BEL,3,"['Elise Mertens', 'Alison Van Uytvanck', 'Kirsten Flipkens']"
+GRE,1,['Maria Sakkari']
+EST,2,"['Anett Kontaveit', 'Kaia Kanepi']"
+GER,2,"['Angelique Kerber', 'Laura Siegemund']"
+TUN,1,['Ons Jabeur']
+RUS,10,"['Ekaterina Alexandrova', 'Svetlana Kuznetsova', 'Anastasia Pavlyuchenkova', 'Veronika Kudermetova', 'Anna Blinkova', 'Darya Kasatkina', 'Varvara Gracheva', 'Anastasia Potapova', 'Margarita Gasparyan', 'Vera Zvonareva']"
+CHN,5,"['Qiang Wang', 'Shuai Zhang', 'Saisai Zheng', 'Lin Zhu', 'Yafan Wang']"
+FRA,4,"['Fiona Ferro', 'Caroline Garcia', 'Kristina Mladenovic', 'Alize Cornet']"
+LAT,2,"['Jelena Ostapenko', 'Anastasija Sevastova']"
+ARG,1,['Nadia Podoroska']
+SLO,3,"['Polona Hercog', 'Tamara Zidansek', 'Kaja Juvan']"
+SWE,1,['Rebecca Peterson']
+TPE,1,['Su Wei Hsieh']
+AUS,2,"['Ajla Tomljanovic', 'Ashleigh Barty']"
+ITA,3,"['Camila Giorgi', 'Martina Trevisan', 'Jasmine Paolini']"
+MNE,1,['Danka Kovinic']
+SVK,1,['Viktoria Kuzmova']
+SRB,1,['Nina Stojanovic']
+DEN,1,['Clara Tauson']
+COL,1,['Maria Camila Osorio Serrano']

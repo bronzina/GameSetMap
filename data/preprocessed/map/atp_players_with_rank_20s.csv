@@ -1,0 +1,40 @@
+country,n_players,players
+SRB,5,"['Novak Djokovic', 'Dusan Lajovic', 'Laslo Djere', 'Filip Krajinovic', 'Miomir Kecmanovic']"
+SUI,2,"['Roger Federer', 'Stanislas Wawrinka']"
+AUT,2,"['Dominic Thiem', 'Dennis Novak']"
+RUS,3,"['Daniil Medvedev', 'Karen Khachanov', 'Andrey Rublev']"
+GRE,1,['Stefanos Tsitsipas']
+GER,5,"['Alexander Zverev', 'Jan Lennard Struff', 'Philipp Kohlschreiber', 'Dominik Koepfer', 'Yannick Hanfmann']"
+ITA,9,"['Matteo Berrettini', 'Fabio Fognini', 'Lorenzo Sonego', 'Andreas Seppi', 'Marco Cecchinato', 'Jannik Sinner', 'Stefano Travaglia', 'Salvatore Caruso', 'Gianluca Mager']"
+FRA,12,"['Gael Monfils', 'Lucas Pouille', 'Benoit Paire', 'Jo Wilfried Tsonga', 'Adrian Mannarino', 'Jeremy Chardy', 'Ugo Humbert', 'Gilles Simon', 'Richard Gasquet', 'Pierre Hugues Herbert', 'Corentin Moutet', 'Gregoire Barrere']"
+ESP,11,"['Roberto Bautista Agut', 'Pablo Carreno Busta', 'Albert Ramos', 'Fernando Verdasco', 'Feliciano Lopez', 'Pablo Andujar', 'Roberto Carballes Baena', 'Alejandro Davidovich Fokina', 'Jaume Munar', 'Rafael Nadal', 'Pedro Martinez Portero']"
+BEL,1,['David Goffin']
+ARG,6,"['Diego Sebastian Schwartzman', 'Guido Pella', 'Juan Ignacio Londero', 'Federico Delbonis', 'Leonardo Mayer', 'Federico Coria']"
+CAN,4,"['Denis Shapovalov', 'Felix Auger Aliassime', 'Milos Raonic', 'Vasek Pospisil']"
+JPN,4,"['Kei Nishikori', 'Yoshihito Nishioka', 'Yasutaka Uchiyama', 'Yuichi Sugita']"
+AUS,6,"['Alex De Minaur', 'Nick Kyrgios', 'John Millman', 'Jordan Thompson', 'Alexei Popyrin', 'James Duckworth']"
+USA,9,"['John Isner', 'Taylor Harry Fritz', 'Reilly Opelka', 'Sam Querrey', 'Francis Tiafoe', 'Tennys Sandgren', 'Steve Johnson', 'Tommy Paul', 'Marcos Giron']"
+BUL,1,['Grigor Dimitrov']
+GEO,1,['Nikoloz Basilashvili']
+CRO,2,"['Borna Coric', 'Marin Cilic']"
+CHI,2,"['Christian Garin', 'Nicolas Jarry']"
+POL,2,"['Hubert Hurkacz', 'Kamil Majchrzak']"
+GBR,3,"['Daniel Evans', 'Cameron Norrie', 'Kyle Edmund']"
+URU,1,['Pablo Cuevas']
+MDA,1,['Radu Albot']
+NOR,1,['Casper Ruud']
+KAZ,2,"['Alexander Bublik', 'Mikhail Kukushkin']"
+SLO,1,['Aljaz Bedene']
+POR,1,['Joao Sousa']
+LTU,1,['Ricardas Berankis']
+HUN,2,"['Marton Fucsovics', 'Attila Balazs']"
+BOL,1,['Hugo Dellien']
+SWE,1,['Mikael Ymer']
+KOR,1,['Soon Woo Kwon']
+BRA,1,['Thiago Monteiro']
+BIH,1,['Damir Dzumhur']
+BLR,1,['Egor Gerasimov']
+RSA,2,"['Lloyd George Muirhead Harris', 'Kevin Anderson']"
+SVK,2,"['Andrej Martin', 'Norbert Gombos']"
+CZE,1,['Jiri Vesely']
+FIN,1,['Emil Ruusuvuori']

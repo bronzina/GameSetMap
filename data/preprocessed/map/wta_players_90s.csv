@@ -1,0 +1,666 @@
+id,name,surname,rank,country
+200293,Daniel,Krashin,2,ISR
+200293,Martina,Navratilova,2,USA
+200572,Nick,Hardt,3,DOM
+200572,Gabriela,Sabatini,3,ARG
+200404,Hugo,Daubias,4,FRA
+200404,Zina,Garrison,4,USA
+200017,Aditya,Deswal,5,IND
+200017,Arantxa,Sanchez Vicario,5,ESP
+200652,Mohamed,Abdel Aziz,6,EGY
+200652,Monica,Seles,6,USA
+200049,Amer Mohamed,Abdo,7,YEM
+200049,Conchita,Martinez,7,ESP
+200377,Omer,Yeshaya,8,ISR
+200377,Helena,Sukova,8,CZE
+200401,Amir Hossein,Badi,9,IRI
+200401,Manuela,Maleeva Fragniere,9,SUI
+200259,Ugo,Blanchet,10,FRA
+200259,Chris,Evert,10,USA
+200539,Konstantinos,Ilia,11,CYP
+200539,Jana,Novotna,11,CZE
+200597,Andres Ariel,Fernandez Lopez,12,ARG
+200597,Mary Joe,Fernandez,12,USA
+200472,Ayoub,Guennaz,13,FRA
+200472,Helen,Kelesi,13,CAN
+200348,Konstantin,Kirovski,14,SRB
+200348,Hana,Mandlikova,14,AUS
+200455,Aliaksandr,Liaonenka,15,BLR
+200455,Katerina,Maleeva,15,BUL
+200453,Milos,Mihajlovic,16,SRB
+200453,Catarina,Lindqvist Ryan,16,SWE
+200462,Andrea,Guerrieri,17,ITA
+200462,Belinda,Cordwell,17,NZL
+200360,Yannis,Moulod,18,CIV
+200360,Pam,Shriver,18,USA
+200630,Alexander,Zverev Sr,19,RUS
+200630,Laura,Gildemeister,19,PER
+200450,Ulugbek,Fayzullaev,20,UZB
+200450,Larisa,Savchenko,20,URS
+200422,Nicolas,De Marco,21,ARG
+200422,Raffaella,Reggi Concato,21,ITA
+200357,Gabriel,Bugiga,22,BRA
+200357,Rosalyn,Nideffer,22,USA
+200417,Axel,Fries,23,SWE
+200417,Gigi,Fernandez,23,USA
+200604,Sergio,Ruiz,24,ESP
+200604,Barbara,Paulus,24,AUT
+200097,Patrick,Mufumbila,25,ZAM
+200097,Nathalie,Tauziat,25,FRA
+200725,Jiri,Broz,26,CZE
+200725,Sandra,Cecchini,26,ITA
+200116,Camilo,Ugo Carabelli,27,ARG
+200116,Natalia,Zvereva,27,BLR
+200650,Jeremias,Rocco,28,ARG
+200650,Isabel,Cueto,28,GER
+200503,J,Sutter,29,UNK
+200503,Gretchen,Magers,29,USA
+200601,Nidzhat,Ibragimov,30,RUS
+200601,Leila,Meskhi,30,GEO
+200548,Yuri,Lorenzi,31,ITA
+200548,Patty,Fendick,31,USA
+200530,Constandinos,Christoforou,32,CYP
+200530,Radomira,Zrubakova,32,SVK
+200041,Dane,Dunlap,33,CAN
+200041,Amy,Frazier,33,USA
+200346,Mats,Rosenkranz,34,GER
+200346,Anne,Minter,34,AUS
+200482,Rana Roop Singh,Bhullar,35,NOR
+200482,Judith,Wiesner,35,AUT
+200428,Till,Wegner,36,GER
+200428,Lori,Mcneil,36,USA
+200354,Amit,Stein,37,ISR
+200354,Claudia,Kohde Kilsch,37,GER
+200485,Constantin,Frantzen,38,GER
+200485,Manon,Bollegraf,38,NED
+200673,Rayyan,Aljufairi,39,QAT
+200673,Susan,Sloane Lundy,39,USA
+200605,Rasul,Gojayev,40,AZE
+200605,Regina,Rajchrtova,40,TCH
+200366,Olukayode Alafia Damina,Ayeni,41,USA
+200366,Sylvia,Hanika,41,GER
+200378,Lior,Goldenberg,42,ISR
+200378,Anne,Smith,42,USA
+200442,Dostanbek,Tashbulatov,43,KAZ
+200442,Andrea,Temesvari,43,HUN
+200705,Jannik,Rother,44,GER
+200705,Linda,Ferrando,44,ITA
+200333,Gabriel,Carneiro Torres Goncalves,45,BRA
+200333,Betsy,Nagelsen,45,USA
+200621,Bruno,Britez,46,PAR
+200621,Isabelle,Demongeot,46,FRA
+200674,Mason,Beiler,47,USA
+200674,Bettina,Fulco Villella,47,ARG
+200496,Ivanhoe,Lissanevitch,48,NEP
+200496,Terry,Phelps,48,USA
+200439,Bjorn,Hoffmann,49,USA
+200439,Jenny,Byrne,49,AUS
+200589,Sam,Riffice,50,USA
+200589,Halle,Cioffi,50,USA
+200602,Nicolo,Schiliro,51,ITA
+200602,Shaun,Stafford,51,USA
+200419,Jonas,Eriksson Ziverts,52,SWE
+200419,Kathy,Rinaldi Stunkel,52,USA
+200464,Connor,Hance,53,USA
+200464,Ann,Henricksson,53,USA
+200595,Lorenzo,Bocchi,54,ITA
+200595,Ann,Wunderlich,54,USA
+200495,Eduardo,Ribeiro,55,BRA
+200495,Akiko,Kijimuta,55,JPN
+200481,Thomas Christopher,Eckert,56,GER
+200481,Elna,Reinach,56,RSA
+200561,Rian,Pandole,57,IND
+200561,Cathy,Caverzasio,57,SUI
+200584,Wisdom,Na Adjrago,58,GHA
+200584,Laura,Golarsa,58,ITA
+200566,Vidith,Huot,59,USA
+200566,Donna,Faber,59,USA
+200641,Mehdi,Mazouz,60,MAR
+200641,Patricia,Tarabini,60,ARG
+200469,Iouri Sant,Syromolotov Netrebin,61,ESP
+200469,Nicole,Bradtke,61,AUS
+200444,Igor,Karpovets,62,UKR
+200444,Elise,Burgin,62,USA
+200064,Athanasios,Zannias,63,GRE
+200064,Amanda,Coetzer,63,RSA
+200593,Adria,Alvarez,64,ESP
+200593,Karine,Quentrec,64,FRA
+200395,Antoine,Monaco,65,FRA
+200395,Catherine,Tanvier,65,FRA
+200362,Siddharth,Anand,66,IND
+200362,Liz,Smylie,66,AUS
+200612,Nikita,Potapov,67,RUS
+200612,Natalia,Medvedeva,67,UKR
+200424,Gaston,Tonello,68,ARG
+200424,Etsuko,Inoue,68,JPN
+200547,Souhail,Boukdeir,69,MAR
+200547,Sandra,Wasserman,69,BEL
+200535,Victor,Chaw,70,PER
+200535,Jo Anne,Faull,70,AUS
+200625,Cameron Edward,Smith,71,AUS
+200625,Jana,Pospisilova,71,CZE
+200372,Alen,Rogic Hadzalic,72,CRO
+200372,Bettina,Bunge,72,GER
+201017,Ovidiu,Ferestean,73,ROU
+201017,Angelika,Kanellopoulou,73,GRE
+200651,Ben,Doghmani,74,TUN
+200651,Sabine,Hack,74,GER
+200480,Alessandro,Ricci,75,CZE
+200480,Claudia,Porwik,75,GER
+201043,Carlos,Cordoba,76,BOL
+201043,Barbara,Romano,76,ITA
+200026,Feda,Bilic,77,AUS
+200026,Florencia,Labat,77,ARG
+200569,Marin,Dumitru,78,AUS
+200569,Petra,Pichalova Langrova,78,TCH
+200105,Frazier,Rengifo,79,COL
+200105,Rachel,Mcquillan,79,AUS
+201051,Marco,Casal,80,ESP
+201051,Laura,Lapi,80,ITA
+200610,Oliver,Crawford,81,USA
+200610,Stacey,Martin,81,USA
+200522,Renato,Lima,82,BRA
+200522,Nicole,Krijger Jagerman,82,NED
+200554,Ruben,Geeraert,83,BEL
+200554,Brenda,Schultz Mccarthy,83,NED
+200557,Mohamed Anouar,Braham,84,TUN
+200557,Katrina,Adams,84,USA
+200599,Jason,Legall,85,USA
+200599,Carrie,Cunningham,85,USA
+200494,Timothy,Dollman,86,RSA
+200494,Dianne,Van Rensburg,86,RSA
+201021,Lukas,Labitsch,87,AUT
+201021,Laura,Garrone,87,ITA
+200416,August,Holmgren,88,DEN
+200416,Robin,White,88,USA
+201047,Coen,Van Keulen,89,NED
+201047,Andrea,Vieira,89,BRA
+200506,L,Fernandez,90,UNK
+200506,Wiltrud,Probst,90,GER
+200640,Lucas,Vuradin,91,AUS
+200640,Mercedes,Paz,91,ARG
+200407,Ignace,Van Den Steene,92,BEL
+200407,Camille,Benjamin,92,USA
+200699,Thiago,Santos,93,BRA
+200699,Meredith,Mcgrath,93,USA
+200573,Mitchell Thomas,Mcdaniels,94,USA
+200573,Cecilia,Dahlman,94,SWE
+200501,Michael,Wennberg,95,SWE
+200501,Marianne,Werdel Witmeyer,95,USA
+200476,Jeff,Sackmann,96,USA
+200476,Cammy,Macgregor,96,USA
+201025,Rafael,Wolfe,97,USA
+201025,Neige,Dias,97,BRA
+200591,Orkhan,Manafli,98,AZE
+200591,Ronni,Reis,98,USA
+200582,Tsatsu Kofi,Segbedzie,99,GHA
+200582,Maria,Strandlund Tomsvik,99,SWE
+200441,Grigoriy,Lomakin,100,KAZ
+200441,Louise,Field,100,AUS
+200414,Kasper,Elsvad,1,DEN
+200414,Steffi,Graf,1,GER
+200617,Emmanuel,Luria,90,ISR
+200617,Kimiko,Date Krumm,90,JPN
+200473,Valentin,Vacherot,97,FRA
+200473,Beverly,Bowes Hackney,97,USA
+200112,Alejandro,Alaix,81,ESP
+200112,Julie,Halard Decugis,81,FRA
+200037,Irfan,Hussain,88,IND
+200037,Sabine,Appelmans,88,BEL
+200606,Rayane,Oumaouche,93,FRA
+200606,Nana,Smith,93,JPN
+200013,Mirko,Martinez,97,SUI
+200013,Angelica,Gavaldon,97,MEX
+200514,Jurij,Rodionov,99,AUT
+200514,Monique,Javer,99,GBR
+200959,Sorin,Rus,83,ROU
+200959,Mareen,Louie Harper,83,USA
+200624,Sebastian,Korda,87,USA
+200624,Tami,Whitlinger Jones,87,USA
+200576,Terrell,Whitehurst,91,USA
+200576,Nathalie,Herreman,91,FRA
+200077,Ikechukwu,Iloputa,25,NGR
+200077,Jennifer,Capriati,25,USA
+200390,Kacper,Zuk,97,POL
+200390,Mary Lou,Daniels,97,USA
+200483,Peter August,Anker,89,NOR
+200483,Kumiko,Okamoto,89,JPN
+200644,Shoma,Kato,49,JPN
+200644,Naoko,Sawamatsu,49,JPN
+200622,Hernando Jose,Escurra Isnardi,87,PAR
+200622,Maya,Kidowaki,87,JPN
+200520,Pavel,Motl,88,CZE
+200520,Sarah,Loosemore,88,GBR
+201054,Julien,Fernandez,100,FRA
+201054,Katia,Piccolini,100,ITA
+200626,Hu,Liu,96,CHN
+200626,Emanuela,Zardo,96,SUI
+213066,Elena,Wagner,100,GER
+200646,Yuto,Sakai,94,JPN
+200646,Francesca,Romano,94,ITA
+200607,Samuele,Ramazzotti,96,ITA
+200607,Beate,Reinstadler,96,AUT
+200086,Toufik,Sahtali,97,ALG
+200086,Magdalena,Maleeva,97,BUL
+200392,Omar,Abdul Kodous,60,EGY
+200392,Jo,Durie,60,GBR
+200586,Patricio,Gallegos,84,CHI
+200586,Federica,Bonsignori,84,ITA
+200403,Patrik,Nema,95,SVK
+200403,Andrea,Leand,95,USA
+200402,Moin,Mohammadi,99,IRI
+200402,Wendy,Prausa,99,USA
+200486,Roee,Benya,99,ISR
+200486,Csilla,Cserepy,99,SUI
+200095,Nicola,Kuhn,94,ESP
+200095,Linda,Wild,94,USA
+201044,Rogerio,Kawakami,100,BRA
+201044,Catherine,Mothes Jobkel,100,FRA
+200081,Mikhail,Pechalov,55,RUS
+200081,Anke,Huber,55,GER
+200021,Francisco,Bendana,91,NCA
+200021,Alexia,Dechaume Balleret,91,FRA
+200497,John,Jorgeson,97,USA
+200497,Patricia,Hy Boulais,97,CAN
+200608,Andres,Fernandez Canovas,97,ESP
+200608,Audra,Keller,97,USA
+200570,Javier Renato,Rodriguez Sanchez,99,PER
+200570,Veronika,Martinek,99,GER
+200574,Alexander,Donski,98,CAN
+200574,Eva,Sviglerova,98,CZE
+200096,Dragos Nicolae,Madaras,100,ROU
+200096,Mary,Pierce,100,FRA
+200634,Antoine,Gaudon,100,FRA
+200634,Elena,Brioukhovets,100,UKR
+200443,Adam,Walton,83,AUS
+200443,Sara,Gomer,83,GBR
+200664,Casper,Bonapart,75,NED
+200664,Stephanie,Rehe,75,USA
+200006,Hugo,Pontico,91,FRA
+200006,Karina,Habsudova,91,SVK
+200579,Kartik Kuber Chavare,Bhaiyu,96,IND
+200579,Karin,Kschwendt,96,AUT
+200629,Karlo,Boljat,82,CRO
+200629,Cristina,Tessi,82,ARG
+200632,Evan,Zhu,88,USA
+200632,Andrea,Strnadova,88,CZE
+200094,Alvaro,Alfonso Ruiz,99,ESP
+200094,Barbara,Rittner,99,GER
+200649,Juan,Aranda,86,ARG
+200649,Ginger,Helgeson Nielsen,86,USA
+200057,Seif,Adas,98,JOR
+200057,Erika,De Lone,98,USA
+200653,Ahmed,Janahi,86,BRN
+200653,Yayuk,Basuki,86,INA
+200615,Alexei,Popyrin,100,AUS
+200615,Kristin,Godridge,100,HKG
+200715,Ty,Braswell,91,USA
+200715,Mariaan,De Swardt,91,RSA
+200669,Maxwell,Mendelsohn,95,USA
+200669,Debbie,Graham,95,USA
+200421,Sherif,Makhlouf,96,EGY
+200421,Pascale,Paradis Mangon,96,FRA
+200700,Michael,Ilett,88,AUS
+200700,Silvia,Farina Elia,88,ITA
+200627,Julien,Evrard,97,FRA
+200627,Petra,Schwarz,97,AUT
+200667,Jesus,Tapiador Barajas,77,ESP
+200667,Ines,Gorrochategui,77,ARG
+200415,Robert,Galloway,96,USA
+200415,Catherine,Suire,96,FRA
+200016,Alex,Solanki,97,IND
+200016,Sandrine,Testud,97,FRA
+200648,Masaya,Kobayashi,82,JPN
+200648,Marketa,Kochta,82,GER
+200659,Long,Nguyen,99,AUS
+200659,Rika,Hiraki,99,JPN
+200039,Matthew Christopher,Romios,76,AUS
+200039,Chanda,Rubin,76,USA
+200677,Rio,Noguchi,100,JPN
+200677,Katja,Oeljeklaus,100,GER
+200623,Jourdan,Kast,99,USA
+200623,Petra,Thoren,99,FIN
+200676,Luis,Heredia Gomez,85,ESP
+200676,Mana,Endo,85,JPN
+200660,Thomas,Bosancic,99,AUS
+200660,Kimberly,Po Messerli,99,USA
+200080,Puriwat,Chatpatcharoen,96,THA
+200080,Dominique,Monami,96,BEL
+200647,Sho,Shimabukuro,93,JPN
+200647,Noelle,Van Lottum,93,FRA
+200675,Henry Patrick,Cacciatore,88,USA
+200675,Eugenia,Maniokova,88,RUS
+200687,Kai,Breitbach,100,GER
+200687,Katarzyna,Nowak,100,POL
+200560,Gautham,Ramkumar,99,IND
+200560,Rene,Collins,99,CAN
+200684,Sergio,Redondo Pereira,98,ESP
+200684,Shi Ting,Wang,98,TPE
+200671,Daisuke,Sumizawa,95,JPN
+200671,Meike,Babel,95,GER
+200519,Maxime,De Montfalcon,94,SUI
+200519,Sybille,Niox Chateau,94,FRA
+200658,Goncalo,Ferreira,100,POR
+200658,Fang,Li,100,CHN
+200685,Vasileios,Iliopoulos,95,GRE
+200685,Christelle,Fauche,95,SUI
+200578,Philipp,Ziersch,95,SUI
+200578,Rennae,Stubbs,95,AUS
+200668,Aleksander,Pawlicki,98,POL
+200668,Silke,Frankl,98,GER
+200663,James,Ibrahim,100,AUS
+200663,Nanne,Dahlman,100,FIN
+200712,Guillaume,Laurent,65,FRA
+200712,Katerina,Kroupova,65,CZE
+200587,Brandon,Holt,98,USA
+200587,Silke,Meier,98,GER
+200474,Ivan,Denisov,100,RUS
+200474,Louise,Allen,100,USA
+200638,Zvonimir,Oreskovic,84,CRO
+200638,Stephanie,Rottier,84,NED
+200723,Mario,Trnovsky,88,SVK
+200723,Iva,Majoli,88,CRO
+200679,William,Howells,96,USA
+200679,Caroline,Kuhlman,96,USA
+200680,Rishabh,Sharda,75,IND
+200680,Nadin,Ercegovic,75,CRO
+200678,Tanishq,Mahendru,93,IND
+200678,Gloria,Pizzichini,93,ITA
+200645,Tetsu,Sakamoto,82,JPN
+200645,Maja,Zivec Skulj,82,GER
+200020,Morgan,Dill,76,USA
+200020,Lisa,Raymond,76,USA
+200682,Tadiwa,Chinamo,99,ZIM
+200682,Joannette,Kruger,99,RSA
+200681,Adil,Kalyanpur,100,IND
+200681,Natalia,Baudone Furlan,100,ITA
+200498,Riki,Oshima,87,JPN
+200498,Michelle,Jaggard Lai,87,AUS
+200089,Youcef,Ghezal,90,ALG
+200089,Miriam,Oremans,90,NED
+200128,Sahil,Gaware,99,IND
+200128,Lindsay,Davenport,99,USA
+200665,Yuta,Kawahashi,97,JPN
+200665,Yone,Kamio,97,JPN
+200655,Jerico,Bohol,99,PHI
+200655,Nicole,Arendt,99,USA
+200726,Alexandro,Shady,95,PER
+200726,Nancy,Feber,95,BEL
+200491,Florent,Casays,95,FRA
+200491,Christina,Singer,95,GER
+200690,Yuhei,Kono,98,JPN
+200690,Kyoko,Nagatsuka,98,JPN
+200019,Keny,Turcios,89,HON
+200019,Alexandra,Fusai,89,FRA
+200657,Dino,Bonetta,73,CRO
+200657,Radka,Bobkova,73,CZE
+200082,Kohlman,Lawrence,95,USA
+200082,Kristie,Boogert,95,NED
+200059,Yibing,Wu,68,CHN
+200059,Ruxandra,Dragomir Ilie,68,ROU
+200696,Coilin,Macnamara,100,IRL
+200696,Christina,Papadaki,100,GRE
+200711,Nicolas,Mejia,97,COL
+200711,Tatiana,Ignatieva,97,BLR
+200559,Faisal,Qamar,99,IND
+200559,Kristine,Kunce,99,AUS
+200542,Himanshu,Mourya,98,IND
+200542,Clare,Wood,98,GBR
+201063,Erik,Nelson Kortland,99,USA
+201063,Maria Francesca,Bentivoglio,99,ITA
+200692,Herbert Jody,Maginley,92,ANT
+200692,Marzia,Grossi,92,ITA
+200709,Nate,Eazor,94,USA
+200709,Rosana,De Los Rios,94,PAR
+200704,Or,Grinberg,93,ISR
+200704,Maria Jose,Gaidano,93,ARG
+200703,Bogdan,Pavel,95,ROU
+200703,Katarina,Studenikova,95,SVK
+200686,Martin Valdo,Randpere,85,EST
+200686,Sandra,Dopfer,85,AUT
+200697,Jabari,Stafford,96,USA
+200697,Janette,Husarova,96,SVK
+200051,Zuxin,Zheng,75,CHN
+200051,Irina,Spirlea,75,ROU
+200708,Alessandro,Ingarao,71,ITA
+200708,Sandra,Cacic,71,USA
+200048,Igor,Perunov,78,RUS
+200048,Elena,Likhovtseva,78,RUS
+200397,Hindolo,Karim,96,SLE
+200397,Tracy,Austin,96,USA
+200707,Max,Colorado ,97,USA
+200707,Romana,Tedjakusuma,97,INA
+200693,Amadeo,Blasco Hervas,94,ESP
+200693,Elena,Makarova,94,RUS
+200076,Albert Bisong,Bikom,93,NGR
+200076,Laurence,Courtois,93,BEL
+200040,Keanu,Ellen,99,USA
+200040,Anna,Smashnova,99,ISR
+200084,Reda,Mokhtari,98,ALG
+200084,Asa,Svensson,98,SWE
+200032,Jose Roberto,Gueiros,99,BRA
+200032,Barbara,Schett,99,AUT
+200718,Kilian,Symalla,99,GER
+200718,Ludmila,Richterova,99,CZE
+200698,Marcos,Lazo,97,CUB
+200698,Petra,Begerow,97,GER
+200107,Noah,Makarome,98,USA
+200107,Paola,Suarez,98,ARG
+200106,Karim,Bendjamaa,100,ALG
+200106,Angeles,Montolio,100,ESP
+200727,Leo,Dominguez,99,FRA
+200727,Adriana,Serra Zanetti,99,ITA
+200085,Mohamed Reda,Boukhobza,95,ALG
+200085,Ai,Sugiyama,95,JPN
+200001,Augusto,Stodart,84,ARG
+200001,Martina,Hingis,84,SUI
+200716,Mark,Ein,100,USA
+200716,Sung Hee,Park,100,KOR
+200695,Bradley,Holt,97,USA
+200695,Tina,Krizan,97,SLO
+200005,Ugo,Humbert,98,FRA
+200005,Jolene,Watanabe Giltz,98,USA
+200724,Phillip,Kafka,88,USA
+200724,Lea,Ghirardi,88,FRA
+200127,Aryan,Goveas,100,IND
+200127,Sarah,Pitkowski Malcor,100,FRA
+200118,Kevin,Lynch,98,USA
+200118,Virginia,Ruano Pascual,98,ESP
+200101,Tomas,Reche,98,ARG
+200101,Jana,Kandarr,98,GER
+200042,Tobias,Dankl,92,GER
+200042,Els,Callens,92,BEL
+200706,Michael,Boguslavsky,95,ISR
+200706,Catalina,Cristea,95,ROU
+200012,Tim,Ruehl,85,GER
+200012,Jana,Nejedly,85,CAN
+200643,Jurgen,Briand,90,FRA
+200643,Petra,Kamstra,90,NED
+200729,Jan,Stremmel,92,GER
+200729,Lindsay,Lee Waters,92,USA
+200024,Makoto,Ochi,94,JPN
+200024,Maria,Vento Kabchi,94,VEN
+200010,Victor,Krustev,98,CAN
+200010,Rita,Grande,98,ITA
+200734,Achim,Vladimirschii,86,MDA
+200734,Tatjana,Jecmenica,86,SRB
+200732,Neils,De Meyer,79,BEL
+200732,Magdalena,Grzybowska,79,POL
+200728,Alexander,Gorovits,97,GER
+200728,Melanie,Schnell,97,AUT
+200702,Sina,Moghimi,88,IRI
+200702,Naoko,Kijimuta,88,JPN
+200075,Yshai,Oliel,91,ISR
+200075,Jing Qian,Yi,91,CHN
+200720,Radu,Constantea,95,ROU
+200720,Dally,Randriantefy,95,MAD
+200717,Jasper,Hartwig,100,GER
+200717,Anne,Miller,100,USA
+200035,Lars,Klaverstijn,96,NED
+200035,Maria,Sanchez Lorenzo,96,ESP
+200098,Howard Murphy,Payne,98,USA
+200098,Henrieta,Nagyova,98,SVK
+200067,Jack W,Van Slyke,100,CAN
+200067,Patty,Schnyder,100,SUI
+200745,Mehdi,Ait Barhouch,100,MAR
+200745,Andrea,Glass,100,GER
+200061,Anders,Grinderslev,65,DEN
+200061,Gala,Leon Garcia,65,ESP
+200722,Yudai,Tashiro,85,JPN
+200722,Francesca,Lubiani,85,ITA
+200109,Sergey,Schetinin,95,RUS
+200109,Nathalie,Dechy,95,FRA
+200691,Francesco,Cano,90,ITA
+200691,Flora,Perfetti,90,ITA
+200070,Kirill,Kivattsev,91,RUS
+200070,Anne Gaelle,Sidot,91,FRA
+200739,Alex,Gallardo,97,ESP
+200739,Stephanie,De Ville,97,BEL
+200113,Eric,Samuelsson,69,SWE
+200113,Anna,Kournikova,69,RUS
+200737,Nikola,Petrov,85,BUL
+200737,Aleksandra,Olsza,85,POL
+200066,Giulio,Siri,99,ITA
+200066,Cristina,Torrens Valero,99,ESP
+200007,Quentin,Folliot,98,FRA
+200007,Silvija,Talaja,98,CRO
+200009,Benjamin,Sigouin,79,CAN
+200009,Tamarine,Tanasugarn,79,THA
+200044,Ahmad Maulana,Bezuri,99,INA
+200044,Denisa,Chladkova,99,CZE
+200088,Hercilio Rafael,Seda,99,MOZ
+200088,Adriana,Gersi,99,CZE
+200666,Jie,Cui,72,CHN
+200666,Marion,Maruska,72,AUT
+200713,Federico,Iannaccone,100,ITA
+200713,Yuka,Yoshida,100,JPN
+200038,Mohamed,Belcora,91,MAR
+200038,Annabel,Ellwood,91,AUS
+200738,Florian,Eysseric,95,FRA
+200738,Lenka,Cenkova,95,CZE
+200027,Blazo N,Djurovic,82,AUS
+200027,Magui,Serna,82,ESP
+200050,Finn,Bass,98,GBR
+200050,Sandra,Kleinova,98,CZE
+200031,Lucas,Catarina,97,MON
+200031,Meilen,Tu,97,USA
+200062,Boris,Fassbender,98,FRA
+200062,Kristina,Brandi,98,PUR
+200735,Sascha,Lehmann,100,GER
+200735,Miho,Saeki,100,JPN
+200052,Andrey,Pechkin,99,RUS
+200052,Olga,Barabanschikova,99,BLR
+200748,Andres,Andrade,86,ECU
+200748,Venus,Williams,86,USA
+200125,Mykyta,Mashtakov,91,UKR
+200125,Corina,Morariu,91,USA
+200063,Ruy,Guedes Teixeira,96,BRA
+200063,Tatiana,Panova,96,RUS
+200055,Rui Xuan,Wang,95,CHN
+200055,Mariana,Diaz Oliva,95,ARG
+200022,Taiki,Hashimoto,87,JPN
+200022,Emmanuelle,Gagliardi,87,SUI
+201061,Patricio,Moreno Fernandez,94,ESP
+201061,Eva,Martincova,94,CZE
+200004,Keshav,Vellodi,90,USA
+200004,Kerry Anne,Guse,90,AUS
+200002,Caleb,Boland,69,AUS
+200002,Mirjana,Lucic,69,CRO
+200661,Yuki,Mochiduki,100,JPN
+200661,Samantha,Smith,100,GBR
+200071,Patricio,Ortiz Sanchez,97,MEX
+200071,Lenka,Nemeckova,97,CZE
+200099,Valentino Raul,Caratini,100,ARG
+200099,Sonya,Jeyaseelan,100,CAN
+200033,Kushaan,Nath,100,IND
+200033,Serena,Williams,100,USA
+200093,Luca,Prevosto,100,ITA
+200093,Amelie,Cocheteux,100,FRA
+200054,Christian,Felline,95,ITA
+200054,Sylvia,Plischke,95,AUT
+200065,Stamatis,Kapiris,100,GRE
+200065,Amelie,Mauresmo,100,FRA
+200091,David,Gorsic,85,SLO
+200091,Janet,Lee,85,TPE
+200045,Anthony,Susanto,89,INA
+200045,Tara,Snyder,89,USA
+200036,Abhinav Sanjeev,Shanmugam,100,IND
+200036,Nicole,Pratt,100,AUS
+200117,Guillermo,Castaneda,99,MEX
+200117,Kveta,Peschke,99,CZE
+200742,Brian,Martinez,100,USA
+200742,Olga,Lugina,100,UKR
+200740,Anton,Knyazev,82,RUS
+200740,Elena,Tatarkova,82,UKR
+200078,Okechukw,Micheal,90,NGR
+200078,Barbara,Schwartz,90,AUT
+200072,Orlando,Alcantara Rangel,70,MEX
+200072,Cara,Black,70,ZIM
+200750,Adrian Esteban,Grimolizzi,100,ARG
+200750,Karin,Miller,100,USA
+200046,Panji,Untung Setiawan,96,INA
+200046,Meghann,Shaughnessy,96,USA
+200110,Itai,Allouche,99,ISR
+200110,Fabiola,Zuluaga,99,COL
+200752,Maximilian,Lechner,99,AUT
+200752,Raluca,Sandu,99,ROU
+200047,Roy Cahya,Setiabudi,99,INA
+200047,Pavlina,Nola,99,NZL
+200124,Alexey,Baryshev,90,RUS
+200124,Anne,Kremer,90,LUX
+200751,Dominik,Kotek,95,AUT
+200751,Conchita,Martinez Granados,95,ESP
+200074,Yoav,Nir,84,ISR
+200074,Jane,Chi,84,USA
+200104,Benjamin,Warren,96,RSA
+200104,Emilie,Loit,96,FRA
+201078,Fabian,Groetsch,98,GER
+201078,Eugenia,Kulikovskaya,98,RUS
+200115,Renat,Sakhabutdinov,90,RUS
+200115,Brie,Rippner,90,USA
+200749,Kilian Merlin,Janzon,100,GER
+200749,Samantha,Reeves,100,USA
+200028,Yani Kimon,Doumanis,73,AUS
+200028,Maureen,Drake,73,CAN
+200087,Mohamed Amine,Aissa Khelifa,97,ALG
+200087,Seda,Noorlander,97,NED
+200100,Tomas,Rengel Sierra,93,ARG
+200100,Amanda,Hopmans,93,NED
+200068,Maitreya,Bhagat,85,IND
+200068,Lilia,Osterloh,85,USA
+200123,Guga,Tavadze,75,GEO
+200123,Marlene,Weingartner,75,GER
+200119,Khalil,Boudjadi,76,ALG
+200119,Rita,Kuti Kis,76,HUN
+200011,Arvid,Noren,88,SWE
+200011,Katarina,Srebotnik,88,SLO
+200008,Alexis,Galarneau,94,CAN
+200008,Alicia,Molik,94,AUS
+200025,Amine,Mihrab,88,MAR
+200025,Ludmila,Cervanova,88,SVK
+200092,Ruslan,Khunarikov,91,RUS
+200092,Sandra,Nacuk,91,SCG
+200053,Jeremiah,Gonzalez,100,USA
+200053,Lubomira,Bacheva,100,BUL
+200003,Jeremy,Beale,98,AUS
+200003,Justine,Henin,98,BEL
+200083,Hugo Israel,Pacheco Soto,88,MEX
+200083,Alexandra,Stevenson,88,USA
+200120,Tarek,Mira,37,ALG
+200120,Jelena,Dokic,37,AUS
+200079,Thomas Otu,Omang,98,NGR
+200079,Kim,Clijsters,98,BEL
+200108,Matej,Vocel,90,CZE
+200108,Elena,Dementieva,90,RUS
+200114,Erik,Nordblom,98,SWE
+200114,Patricia,Wartusch,98,AUT
+200772,Johann Georg,Frankhauser,93,AUT
+200772,Anastasia,Myskina,93,RUS
+200122,Andelko,Blagojevic,96,SUI
+200122,Tina,Pisnik,96,SLO
+200015,Jayesh,Pungliya,98,IND
+200015,Petra,Mandula,98,HUN
+200069,Arsan,Arashov,95,KAZ
+200069,Nadia,Petrova,95,RUS
+200056,Christian Alvin,Edison,100,INA
+200056,Jelena,Kostanic Tosic,100,CRO

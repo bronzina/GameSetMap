@@ -1,0 +1,55 @@
+country,n_players,players
+SUI,9,"['Martina Hingis', 'Emmanuelle Gagliardi', 'Miroslava Vavrinec', 'Patty Schnyder', 'Marie Gaiane Mikaelian', 'Myriam Casanova', 'Romina Oprandi', 'Timea Bacsinszky', 'Stefanie Voegele']"
+CRO,8,"['Mirjana Lucic', 'Silvija Talaja', 'Jelena Kostanic Tosic', 'Iva Majoli', 'Karolina Sprem', 'Sanda Mamic', 'Ivana Lisjak', 'Petra Martic']"
+BEL,8,"['Justine Henin', 'Sabine Appelmans', 'Els Callens', 'Laurence Courtois', 'Kim Clijsters', 'Dominique Monami', 'Kirsten Flipkens', 'Yanina Wickmayer']"
+SVK,10,"['Karina Habsudova', 'Ludmila Cervanova', 'Henrieta Nagyova', 'Janette Husarova', 'Daniela Hantuchova', 'Martina Sucha', 'Lubomira Kurhajcova', 'Eva Fislova', 'Dominika Cibulkova', 'Magdalena Rybarikova']"
+AUS,9,"['Alicia Molik', 'Nicole Pratt', 'Evie Dominikovic', 'Rachel Mcquillan', 'Jelena Dokic', 'Samantha Stosur', 'Casey Dellacqua', 'Anastasia Rodionova', 'Jarmila Gajdosova']"
+THA,1,['Tamarine Tanasugarn']
+ITA,14,"['Rita Grande', 'Tathiana Garbin', 'Silvia Farina Elia', 'Adriana Serra Zanetti', 'Giulia Casoni', 'Francesca Schiavone', 'Maria Elena Camerin', 'Roberta Vinci', 'Antonella Serra Zanetti', 'Flavia Pennetta', 'Mara Santangelo', 'Alberta Brianti', 'Karin Knapp', 'Sara Errani']"
+SLO,6,"['Katarina Srebotnik', 'Tina Pisnik', 'Maja Matevzic', 'Andreja Klepac', 'Polona Hercog', 'Masa Zec Peskiric']"
+CAN,5,"['Jana Nejedly', 'Maureen Drake', 'Sonya Jeyaseelan', 'Stephanie Dubois', 'Aleksandra Wozniak']"
+ISR,4,"['Tzipi Obziler', 'Anna Smashnova', 'Evgenia Linetskaya', 'Shahar Peer']"
+HUN,7,"['Petra Mandula', 'Rita Kuti Kis', 'Greta Arn', 'Zsofia Gubacsi', 'Aniko Kapros', 'Melinda Czink', 'Agnes Szavay']"
+FRA,25,"['Sandrine Testud', 'Alexia Dechaume Balleret', 'Virginie Razzano', 'Amelie Mauresmo', 'Anne Gaelle Sidot', 'Amelie Cocheteux', 'Mary Pierce', 'Nathalie Tauziat', 'Emilie Loit', 'Nathalie Dechy', 'Julie Halard Decugis', 'Sarah Pitkowski Malcor', 'Stephanie Cohen Aloro', 'Stephanie Foretz Gacon', 'Marion Bartoli', 'Celine Beigbeder', 'Camille Pin', 'Tatiana Golovin', 'Severine Beltrame', 'Pauline Parmentier', 'Alize Cornet', 'Mathilde Johansson', 'Aravane Rezai', 'Olivia Sanchez', 'Julie Coin']"
+ESP,18,"['Arantxa Sanchez Vicario', 'Magui Serna', 'Maria Sanchez Lorenzo', 'Conchita Martinez', 'Gala Leon Garcia', 'Cristina Torrens Valero', 'Angeles Montolio', 'Virginia Ruano Pascual', 'Conchita Martinez Granados', 'Marta Marrero', 'Eva Bes Ostariz', 'Anabel Medina Garrigues', 'Maria Jose Martinez Sanchez', 'Nuria Llagostera Vives', 'Arantxa Parra Santonja', 'Laura Pous Tio', 'Lourdes Dominguez Lino', 'Carla Suarez Navarro']"
+USA,41,"['Lisa Raymond', 'Meilen Tu', 'Serena Williams', 'Chanda Rubin', 'Amy Frazier', 'Tara Snyder', 'Meghann Shaughnessy', 'Erika De Lone', 'Lilia Osterloh', 'Jennifer Capriati', 'Alexandra Stevenson', 'Brie Rippner', 'Corina Morariu', 'Marissa Gould', 'Lindsay Davenport', 'Mary Joe Fernandez', 'Monica Seles', 'Sandra Cacic', 'Lindsay Lee Waters', 'Venus Williams', 'Samantha Reeves', 'Jill Craybas', 'Jennifer Hopkins', 'Holly Parkinson', 'Mashona Washington', 'Ansley Cargill', 'Dawn Buth', 'Laura Granville', 'Sarah Taylor', 'Ashley Harkleroad', 'Bethanie Mattek Sands', 'Shenay Perry', 'Angela Haynes', 'Teryn Ashley', 'Abigail Spears', 'Jamea Jackson', 'Vania King', 'Ahsha Rolle', 'Varvara Lepchenko', 'Julie Ditty', 'Melanie Oudin']"
+VEN,2,"['Maria Vento Kabchi', 'Milagros Sequera']"
+ARG,7,"['Florencia Labat', 'Mariana Diaz Oliva', 'Paola Suarez', 'Ines Gorrochategui', 'Maria Emilia Salerni', 'Clarisa Fernandez', 'Gisela Dulko']"
+AUT,8,"['Barbara Schett', 'Sylvia Plischke', 'Barbara Schwartz', 'Patricia Wartusch', 'Yvonne Meusburger', 'Sybille Bammer', 'Tamira Paszek', 'Patricia Mayr Achleitner']"
+CZE,18,"['Denisa Chladkova', 'Sandra Kleinova', 'Adriana Gersi', 'Kveta Peschke', 'Daja Bedanova', 'Iveta Benesova', 'Zuzana Ondraskova', 'Klara Koukalova', 'Eva Birnerova', 'Barbora Zahlavova Strycova', 'Nicole Vaidisova', 'Michaela Pastikova', 'Lucie Safarova', 'Hana Sromova', 'Sandra Zahlavova', 'Petra Cetkovska', 'Petra Kvitova', 'Lucie Hradecka']"
+NZL,2,"['Pavlina Nola', 'Marina Erakovic']"
+RUS,27,"['Elena Likhovtseva', 'Tatiana Panova', 'Nadia Petrova', 'Elena Dementieva', 'Lina Krasnoroutskaya', 'Anna Kournikova', 'Alina Jidkova', 'Elena Bovina', 'Anastasia Myskina', 'Eugenia Kulikovskaya', 'Svetlana Kuznetsova', 'Vera Zvonareva', 'Dinara Safina', 'Maria Sharapova', 'Vera Dushevina', 'Maria Kirilenko', 'Anna Chakvetadze', 'Ekaterina Bychkova', 'Elena Vesnina', 'Vasilisa Bardina', 'Olga Puchkova', 'Alla Kudryavtseva', 'Anastasia Pavlyuchenkova', 'Ekaterina Makarova', 'Alisa Kleybanova', 'Evgeniya Rodina', 'Anna Lapushchenkova']"
+ROU,8,"['Irina Spirlea', 'Ruxandra Dragomir Ilie', 'Catalina Cristea', 'Edina Gallovits Hall', 'Raluca Olaru', 'Monica Niculescu', 'Sorana Cirstea', 'Alexandra Dulgheru']"
+BLR,7,"['Olga Barabanschikova', 'Natalia Zvereva', 'Nadejda Ostrovskaya', 'Tatiana Poutchek', 'Anastasia Yakimova', 'Victoria Azarenka', 'Olga Govortsova']"
+BUL,3,"['Lubomira Bacheva', 'Magdalena Maleeva', 'Tsvetana Pironkova']"
+PUR,1,['Kristina Brandi']
+RSA,3,"['Amanda Coetzer', 'Joannette Kruger', 'Mariaan De Swardt']"
+ZIM,1,['Cara Black']
+CHN,8,"['Jing Qian Yi', 'Fang Li', 'Tian Tian Sun', 'Jie Zheng', 'Shuai Peng', 'Na Li', 'Zi Yan', 'Meng Yuan']"
+GER,18,"['Anke Huber', 'Anca Barna', 'Barbara Rittner', 'Jana Kandarr', 'Marlene Weingartner', 'Andrea Glass', 'Sandra Kloesel', 'Bianka Lamade', 'Martina Muller', 'Angelika Roesch', 'Julia Schruff', 'Anna Lena Groenefeld', 'Kristina Barrois', 'Andrea Petkovic', 'Angelique Kerber', 'Julia Goerges', 'Sabine Lisicki', 'Tatjana Maria']"
+NED,6,"['Kristie Boogert', 'Seda Noorlander', 'Miriam Oremans', 'Amanda Hopmans', 'Yvette Basting', 'Michaella Krajicek']"
+SWE,2,"['Asa Carlsson', 'Sofia Arvidsson']"
+JPN,8,"['Ai Sugiyama', 'Kimiko Date Krumm', 'Shinobu Asagoe', 'Saori Obata', 'Akiko Morigami', 'Aiko Nakamura', 'Rika Fujiwara', 'Ayumi Morita']"
+TPE,4,"['Janet Lee', 'Yung Jan Chan', 'Su Wei Hsieh', 'Kai Chen Chang']"
+SCG,1,['Sandra Nacuk']
+COL,3,"['Fabiola Zuluaga', 'Catalina Castano', 'Mariana Duque Marino']"
+LUX,2,"['Anne Kremer', 'Claudine Schaul']"
+PAR,1,['Rosana De Los Rios']
+MAD,1,['Dally Randriantefy']
+POL,4,"['Magdalena Grzybowska', 'Marta Domachowska', 'Agnieszka Radwanska', 'Urszula Radwanska']"
+UZB,2,"['Iroda Tulyaganova', 'Akgul Amanmuradova']"
+TUN,1,['Selima Sfar']
+INA,2,"['Wynne Prakusya', 'Angelique Widjaja']"
+GBR,4,"['Anne Keothavong', 'Elena Baltacha', 'Katie Obrien', 'Melanie South']"
+GRE,1,['Eleni Daniilidou']
+UKR,9,"['Tatiana Perebiynis', 'Julia Vakulenko', 'Yuliya Beygelzimer', 'Yuliana Fedak', 'Alona Bondarenko', 'Kateryna Bondarenko', 'Viktoria Kutuzova', 'Olga Savchuk', 'Mariya Koryttseva']"
+KOR,1,['Yoon Jeong Cho']
+DEN,2,"['Eva Dyrberg', 'Caroline Wozniacki']"
+KAZ,4,"['Irina Selyutina', 'Sesil Karatantcheva', 'Galina Voskoboeva', 'Yaroslava Shvedova']"
+EST,2,"['Maret Ani', 'Kaia Kanepi']"
+SRB,2,"['Jelena Jankovic', 'Ana Ivanovic']"
+BIH,1,['Mervana Jugic Salkic']
+IND,1,['Sania Mirza']
+FIN,1,['Emma Laine']
+LAT,1,['Anastasija Sevastova']
+POR,1,['Michelle Larcher De Brito']

@@ -1,0 +1,51 @@
+country,n_players,players
+USA,58,"['Ivan Lendl', 'Brad Gilbert', 'John Mcenroe', 'Michael Chang', 'Aaron Krickstein', 'Andre Agassi', 'Jay Berger', 'Tim Mayotte', 'Jimmy Connors', 'Kevin Curren', 'Jim Courier', 'Jim Grabb', 'Ronald Agenor', 'Paul Chamberlin', 'David Wheaton', 'Paul Annacone', 'Scott Davis', 'Todd Witsken', 'Jim Pugh', 'Richey Reneberg', 'Pete Sampras', 'Lawson Duncan', 'Dan Goldie', 'Derrick Rostagno', 'Johan Kriek', 'Glenn Layendecker', 'Jimmy Brown', 'Richard Matuszewski', 'Jimmy Arias', 'Leif Shiras', 'Robert Seguso', 'Joey Rive', 'Tim Wilkison', 'Malivai Washington', 'Kelly Jones', 'David Pate', 'Brad Pearce', 'Bryan Shelton', 'Brian Garrow', 'Robbie Weiss', 'Patrick Mcenroe', 'Jeff Tarango', 'Francisco Montana', 'Jonathan Stark', 'Todd Martin', 'Martin Damm', 'Chuck Adams', 'Alex Obrien', 'Jared Palmer', 'Steve Bryan', 'Vincent Spadea', 'Tommy Ho', 'Michael Joyce', 'Chris Woodruff', 'Justin Gimelstob', 'Jan Michael Gambill', 'Steve Campbell', 'Paul Goldstein']"
+GER,30,"['Boris Becker', 'Carl Uwe Steeb', 'Eric Jelen', 'Jens Woehrmann', 'Patrik Kuhnen', 'Michael Stich', 'Udo Riglewski', 'Alexander Mronz', 'Patrick Baur', 'Christian Saceanu', 'Markus Zoecke', 'Lars Koslowski', 'Karsten Braasch', 'Markus Naewie', 'Arne Thoms', 'Bernd Karbacher', 'David Prinosil', 'Marc Kevin Goellner', 'Hendrik Dreekmann', 'Joern Renzenbrink', 'Oliver Gross', 'Lars Rehmann', 'Martin Sinner', 'Alex Radulescu', 'Tommy Haas', 'Nicolas Kiefer', 'Jens Knippschild', 'Marcello Craca', 'Michael Kohlmann', 'Rainer Schuettler']"
+SWE,25,"['Stefan Edberg', 'Mats Wilander', 'Jan Gunnarsson', 'Magnus Gustafsson', 'Anders Jarryd', 'Jonas Svensson', 'Mikael Pernfors', 'Nicklas Kroon', 'Peter Lundgren', 'Lars Anders Wahlgren', 'Christian Bergstrom', 'Thomas Hogstedt', 'Lars Jonsson', 'Magnus Larsson', 'Nicklas Kulti', 'Henrik Holm', 'Thomas Enqvist', 'Jonas Bjorkman', 'Jan Apell', 'Mikael Tillstrom', 'Thomas Johansson', 'Magnus Norman', 'Patrik Fredriksson', 'Tomas Nydahl', 'Andreas Vinciguerra']"
+ARG,18,"['Alberto Mancini', 'Martin Jaite', 'Guillermo Perez Roldan', 'Franco Davin', 'Eduardo Bengoechea', 'Roberto Azar', 'Horacio De La Pena', 'Javier Frana', 'Gabriel Markus', 'Christian Miniussi', 'Hernan Gumy', 'Mariano Zabaleta', 'Franco Squillari', 'Lucas Arnold Ker', 'Guillermo Canas', 'Mariano Puerta', 'Martin Rodriguez', 'Gaston Gaudio']"
+ECU,2,"['Andres Gomez', 'Nicolas Lapentti']"
+ESP,31,"['Emilio Sanchez', 'Sergi Bruguera', 'Jordi Arrese', 'Javier Sanchez', 'Tomas Carbonell', 'Juan Aguilera', 'Jose Francisco Altur', 'Francisco Clavet', 'Francisco Roig', 'German Lopez', 'Carlos Costa', 'Marcos Aurelio Gorriz', 'Alex Corretja', 'Alberto Berasategui', 'Jordi Burillo', 'Albert Costa', 'Oscar Martinez', 'Carlos Moya', 'Alex Lopez Moron', 'Felix Mantilla', 'Roberto Carretero', 'Galo Blanco', 'Juan Albert Viloca Puig', 'Albert Portas', 'Emilio Benfele Alvarez', 'Julian Alonso', 'Fernando Vicente', 'Alberto Martin', 'Alex Calatrava', 'Jacobo Diaz', 'Juan Carlos Ferrero']"
+AUT,6,"['Horst Skoff', 'Thomas Muster', 'Alex Antonitsch', 'Gilbert Schaller', 'Stefan Koubek', 'Markus Hipfl']"
+RUS,6,"['Andrei Chesnokov', 'Alexander Volkov', 'Andrei Cherkasov', 'Andrei Olhovskiy', 'Yevgeny Kafelnikov', 'Marat Safin']"
+FRA,23,"['Yannick Noah', 'Guy Forget', 'Jean Philippe Fleurian', 'Jerome Potier', 'Thierry Tulasne', 'Fabrice Santoro', 'Henri Leconte', 'Thierry Champion', 'Tarik Benhabiles', 'Olivier Delaitre', 'Guillaume Raoux', 'Cedric Pioline', 'Rodolphe Gilbert', 'Arnaud Boetsch', 'Frederic Fontang', 'Stephane Simian', 'Lionel Roux', 'Jerome Golmard', 'Arnaud Clement', 'Nicolas Escude', 'Sebastien Grosjean', 'Arnaud Di Pasquale', 'Antony Dupuis']"
+SVK,5,"['Miloslav Mecir', 'Marian Vajda', 'Karol Kucera', 'Jan Kroslak', 'Dominik Hrbaty']"
+RSA,7,"['Christo Van Rensburg', 'Pieter Aldrich', 'Gary Muller', 'Wayne Ferreira', 'Marcos Ondruska', 'Grant Stafford', 'Neville Godwin']"
+PER,1,['Jaime Yzaga']
+SUI,5,"['Jakob Hlasek', 'Marc Rosset', 'Claudio Mezzadri', 'Roger Federer', 'George Bastl']"
+CRO,4,"['Goran Ivanisevic', 'Goran Prpic', 'Bruno Oresar', 'Ivan Ljubicic']"
+AUS,20,"['Wally Masur', 'Darren Cahill', 'Mark Woodforde', 'Jason Stoltenberg', 'Richard Fromberg', 'John Fitzgerald', 'Mark Kratzmann', 'Johan Anderson', 'Todd Woodbridge', 'Pat Cash', 'Simon Youl', 'Sandon Stolle', 'Jamie Morgan', 'Patrick Rafter', 'Michael Tebbutt', 'Scott Draper', 'Mark Philippoussis', 'Andrew Ilie', 'Lleyton Hewitt', 'Wayne Arthurs']"
+NZL,2,"['Kelly Evernden', 'Brett Steven']"
+URU,2,"['Marcelo Filippini', 'Diego Perez']"
+ISR,2,"['Amos Mansdorf', 'Gilad Bloom']"
+ITA,13,"['Paolo Cane', 'Omar Camporese', 'Claudio Pistolesi', 'Renzo Furlan', 'Cristiano Caratti', 'Stefano Pescosolido', 'Diego Nargiso', 'Gianluca Pozzi', 'Andrea Gaudenzi', 'Davide Sanguinetti', 'Marzio Martelli', 'Laurence Tieleman', 'Vincenzo Santopadre']"
+BRA,7,"['Luiz Mattar', 'Cassio Motta', 'Jaime Oncins', 'Danilo Marcelino', 'Fernando Roese', 'Fernando Meligeni', 'Gustavo Kuerten']"
+CZE,10,"['Martin Strelba', 'Karel Novacek', 'Milan Srejber', 'Petr Korda', 'Daniel Vacek', 'Slava Dosedel', 'David Rikl', 'Radomir Vasek', 'Bohdan Ulihrach', 'Jiri Novak']"
+IND,2,"['Ramesh Krishnan', 'Leander Paes']"
+NED,11,"['Mark Koevermans', 'Michiel Schapers', 'Paul Haarhuis', 'Tom Nijssen', 'Richard Krajicek', 'Jan Siemerink', 'Jacco Eltingh', 'Sjeng Schalken', 'Dennis Van Scheppingen', 'John Van Lottum', 'Peter Wessels']"
+CAN,5,"['Andrew Sznajder', 'Grant Connell', 'Chris Pridham', 'Sebastien Lareau', 'Daniel Nestor']"
+YUG,1,['Slobodan Zivojinovic']
+GBR,4,"['Jeremy Bates', 'Greg Rusedski', 'Mark Petchey', 'Tim Henman']"
+VEN,2,"['Nicolas Pereira', 'Maurice Ruah']"
+FIN,2,"['Veli Paloheimo', 'Aki Rahunen']"
+MEX,2,"['Luis Herrera', 'Leonardo Lavalle']"
+POR,1,['Nuno Marques']
+BEL,6,"['Eduardo Masso', 'Bart Wuyts', 'Johan Van Herck', 'Kris Goossens', 'Filip Dewulf', 'Xavier Malisse']"
+JPN,1,['Shuzo Matsuoka']
+UKR,2,"['Dimitri Poliakov', 'Andrei Medvedev']"
+ZIM,2,"['Byron Black', 'Wayne Black']"
+DEN,2,"['Kenneth Carlsen', 'Frederik Fetterlein']"
+MAR,3,"['Younes El Aynaoui', 'Karim Alami', 'Hicham Arazi']"
+COL,1,['Mauricio Hadad']
+NOR,1,['Christian Ruud']
+CHI,2,"['Marcelo Rios', 'Nicolas Massu']"
+KEN,1,['Paul Wekesa']
+ROU,3,"['Adrian Voinea', 'Andrei Pavel', 'Dinu Pescariu']"
+HUN,1,['Sandor Noszaly']
+BAH,1,['Mark Knowles']
+ARM,1,['Sargis Sargsian']
+CRC,1,['Juan Antonio Marin']
+PAR,1,['Ramon Delgado']
+PHI,1,['Cecil Mamiit']
+BUL,1,['Orlin Stanoytchev']
+BLR,1,['Max Mirnyi']
+THA,1,['Paradorn Srichaphan']

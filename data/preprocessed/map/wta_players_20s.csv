@@ -1,0 +1,199 @@
+id,name,surname,rank,country
+201662,Pete,Kendall,2,USA
+201662,Karolina,Pliskova,2,CZE
+201594,Bernard,Frances,3,FRA
+201594,Simona,Halep,3,ROU
+211768,Naomi,Osaka,4,JPN
+202494,Frederic,De Rouvroy,5,FRA
+202494,Elina,Svitolina,5,UKR
+215370,Bianca,Andreescu,6,CAN
+201520,Benoit,Bouchet,7,FRA
+201520,Petra,Kvitova,7,CZE
+202505,Mark,Smith,8,USA
+202505,Belinda,Bencic,8,SUI
+202428,Joao Pedro,Alcantara,9,BRA
+202428,Kiki,Bertens,9,NED
+200033,Kushaan,Nath,10,IND
+200033,Serena,Williams,10,USA
+214544,Aryna,Sabalenka,11,BLR
+202427,Cyril,Respaut,12,FRA
+202427,Johanna,Konta,12,GBR
+201619,Christian,Hubscher,13,GER
+201619,Madison,Keys,13,USA
+213550,Sofia,Kenin,14,USA
+201549,Claude,London,15,UNK
+201549,Petra,Martic,15,CRO
+214954,Marketa,Vondrousova,16,CZE
+210722,Elise,Mertens,17,BEL
+201493,Paul,Odonoghue,18,CAN
+201493,Angelique,Kerber,18,GER
+201590,Stephen,Zeilen,19,UNK
+201590,Alison,Riske,19,USA
+202499,Yuval,Toledano,20,ISR
+202499,Donna,Vekic,20,CRO
+214096,Karolina,Muchova,21,CZE
+215035,Dayana,Yastremska,22,UKR
+206289,Garrett,Patton,23,USA
+206289,Maria,Sakkari,23,GRE
+201585,,Vicens,24,UNK
+201585,Sloane,Stephens,24,USA
+216153,Amanda,Anisimova,25,USA
+204426,Javier,Martinez,26,ESP
+204426,Anett,Kontaveit,26,EST
+203389,Rodolfo,Ribeiro,27,BRA
+203389,Danielle Rose,Collins,27,USA
+202492,Koen,Gonnissen,28,BEL
+202492,Qiang,Wang,28,CHN
+201499,J,Cech,29,CZE
+201499,Anastasia,Pavlyuchenkova,29,RUS
+201545,Bill,Lee,30,USA
+201545,Anastasija,Sevastova,30,LAT
+201366,Juan,Jimenez,31,CHI
+201366,Barbora,Zahlavova Strycova,31,CZE
+201709,Gavin Pr,Clunie,32,GBR
+201709,Yulia,Putintseva,32,KAZ
+201444,Angel R,Cupeiro,33,ESP
+201444,Su Wei,Hsieh,33,TPE
+206420,Lornzo,Boveri,34,ITA
+206420,Ekaterina,Alexandrova,34,RUS
+202469,Olivier,Peyret,35,MON
+202469,Garbine,Muguruza,35,ESP
+214981,Elena,Rybakina,36,KAZ
+201540,Tighe,Keating,37,USA
+201540,Kristina,Mladenovic,37,FRA
+201533,,Hietala,38,UNK
+201533,Shuai,Zhang,38,CHN
+201496,Ari,Alkio,39,FIN
+201496,Caroline,Wozniacki,39,DEN
+202453,Leon,Soonalole,40,POC
+202453,Saisai,Zheng,40,CHN
+201504,Howard,Mcguiness,41,GBR
+201504,Julia,Goerges,41,GER
+206368,Pedro,Aranda,42,ARG
+206368,Veronika,Kudermetova,42,RUS
+202663,,Boyle,43,USA
+202663,Magda,Linette,43,POL
+202490,Sean,Gilmour,44,USA
+202490,Rebecca,Peterson,44,SWE
+211533,Jelena,Ostapenko,45,LAT
+201614,Ed,Gaskell,46,USA
+201614,Caroline,Garcia,46,FRA
+202421,George,Houghton,47,GBR
+202421,Alison,Van Uytvanck,47,BEL
+201555,Luis,Motivar,48,COL
+201555,Polona,Hercog,48,SLO
+201458,Leo,Lau,49,HKG
+201458,Victoria,Azarenka,49,BLR
+206374,Sidney,Yap,50,CAN
+206374,Yafan,Wang,50,CHN
+201320,Martin,Chajdas,51,UNK
+201320,Svetlana,Kuznetsova,51,RUS
+201521,Boyd,Bryan,52,USA
+201521,Carla,Suarez Navarro,52,ESP
+206108,Adam,Blecha,53,CZE
+206108,Jennifer,Brady,53,USA
+201548,Roman,Loleit,54,UNK
+201548,Ajla,Tomljanovic,54,AUS
+211701,Katerina,Siniakova,55,CZE
+200748,Andres,Andrade,56,ECU
+200748,Venus,Williams,56,USA
+201427,Liang Fu,Chu,57,CHN
+201427,Alize,Cornet,57,FRA
+215020,Anna,Blinkova,58,RUS
+216347,Iga,Swiatek,59,POL
+213631,Marie,Bouzkova,60,CZE
+214149,Viktoria,Kuzmova,61,SVK
+211539,Fiona,Ferro,62,FRA
+201616,Ian,Goolagong,63,AUS
+201616,Lauren,Davis,63,USA
+214461,Tamara,Zidansek,64,SLO
+211095,Bernarda,Pera,65,USA
+201697,Atushi,Noguchi,66,JPN
+201697,Kristyna,Pliskova,66,CZE
+221103,Cori,Gauff,67,USA
+213525,Jil Belen,Teichmann,68,SUI
+205925,Alex,Castellanos Munuera,69,ESP
+205925,Aliaksandra,Sasnovich,69,BLR
+214082,Darya,Kasatkina,70,RUS
+202684,,Bowery,71,USA
+202684,Lin,Zhu,71,CHN
+201465,Youhei,Tsuji,72,JPN
+201465,Kirsten,Flipkens,72,BEL
+201696,Kong Kiu,Lee,73,USA
+201696,Laura,Siegemund,73,GER
+201514,Greg,Manning,74,USA
+201514,Sorana,Cirstea,74,ROU
+201610,Shane,Browning,75,USA
+201610,Zarina,Diyas,75,KAZ
+201492,Stefano,Meneschincheri,76,ITA
+201492,Andrea,Petkovic,76,GER
+203501,Konstantin,Hristov,77,BUL
+203501,Taylor,Townsend,77,USA
+201620,Wayne,Jackson,78,CAN
+201620,Monica,Puig,78,PUR
+203530,Marc,Powell,79,GBR
+203530,Viktorija,Golubic,79,SUI
+201595,Marc,Simenot,80,FRA
+201595,Misaki,Doi,80,JPN
+202460,Alejandro,Madrigal Alpizar,81,CRC
+202460,Ons,Jabeur,81,TUN
+202468,Nils,Ivanovs,82,LAT
+202468,Jessica,Pegula,82,USA
+203575,Ade,Guswin Lubis,83,INA
+203575,Danka,Kovinic,83,MNE
+213583,Tatjana,Maria,84,GER
+211411,Nina,Stojanovic,85,SRB
+201539,Blaze,Keating,86,USA
+201539,Christina,Mchale,86,USA
+201693,Christophe,Au Couturier,87,FRA
+201693,Timea,Babos,87,HUN
+201554,,Mezquita,88,ESP
+201554,Vitalia,Diatchenko,88,RUS
+203462,Tom,March,89,USA
+203462,Kateryna,Kozlova,89,UKR
+204427,Daniel,Piquero,90,ESP
+204427,Sara,Sorribes Tormo,90,ESP
+201551,Stepfane,Marazanof,91,UNK
+201551,Arantxa,Rus,91,NED
+201529,B,Goolagong,92,AUS
+201529,Kristie,Ahn,92,USA
+201483,Renato,Cito,93,BRA
+201483,Madison,Brengle,93,USA
+211148,Jasmine,Paolini,94,ITA
+211651,Paula,Badosa,95,ESP
+215713,Anastasia,Potapova,96,RUS
+202536,Antonio,Martorell,97,ESP
+202536,Ana,Bogdan,97,ROU
+201325,A,Aziz,98,MAS
+201325,Samantha,Stosur,98,AUS
+202429,David Lucas,Ambrozic,99,SLO
+202429,Camila,Giorgi,99,ITA
+201466,Mike,Mackay,100,USA
+201466,Kaia,Kanepi,100,EST
+202458,Angelin,Mvogo,1,CMR
+202458,Ashleigh,Barty,1,AUS
+202506,Juan Manuel,Brito,98,CUB
+202506,Margarita,Gasparyan,98,RUS
+201586,Joe,Vlasek,75,USA
+201586,Heather,Watson,75,GBR
+211702,Nao,Hibino,84,JPN
+201527,,Faul,99,UNK
+201527,Stefanie,Voegele,99,SUI
+206255,Daniel,Entelis,84,ISR
+206255,Patricia Maria,Tig,84,ROU
+201593,James,Partington,97,USA
+201593,Irina Camelia,Begu,97,ROU
+219875,Varvara,Gracheva,100,RUS
+201603,Nick,Arnould,95,USA
+201603,Shelby,Rogers,95,USA
+220367,Leylah Annie,Fernandez,98,CAN
+211901,Aliona,Bolsova,97,MDA
+206408,Michael,Gutu,48,ZIM
+206408,Nadia,Podoroska,48,ARG
+203354,Cade,Resnick,83,USA
+203354,Martina,Trevisan,83,ITA
+206252,Asaf,Dori,85,ISR
+206252,Barbora,Krejcikova,85,CZE
+215219,Kaja,Juvan,100,SLO
+216146,Marta,Kostyuk,97,UKR
+215983,Ann,Li,100,USA
